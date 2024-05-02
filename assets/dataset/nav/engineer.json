@@ -1,0 +1,1472 @@
+[
+    {
+        "group": "计算机/软件",
+        "channel": {
+            "科技媒体": [
+                {
+                    "name": "极客公园",
+                    "value": "https://www.geekpark.net/"
+                },
+                {
+                    "name": "36氪",
+                    "value": "https://www.36kr.com/"
+                },
+                {
+                    "name": "雷锋网",
+                    "value": "https://www.leiphone.com/"
+                },
+                {
+                    "name": "infoq",
+                    "value": "https://www.infoq.cn/"
+                },
+                {
+                    "name": "虎嗅",
+                    "value": "https://www.huxiu.com/"
+                },
+                {
+                    "name": "少数派",
+                    "value": "https://sspai.com/"
+                },
+                {
+                    "name": "51CTO",
+                    "value": "https://www.51cto.com/"
+                }
+            ],
+            "社区媒体": [
+                {
+                    "name": "Github",
+                    "value": "https://github.com/"
+                },
+                {
+                    "name": "V2EX",
+                    "value": "https://www.v2ex.com/"
+                },
+                {
+                    "name": "CSDN",
+                    "value": "https://www.csdn.net/"
+                },
+                {
+                    "name": "开源中国",
+                    "value": "https://www.oschina.net/"
+                },
+                {
+                    "name": "Stack Overflow",
+                    "value": "https://stackoverflow.com/"
+                },
+                {
+                    "name": "掘金",
+                    "value": "https://juejin.cn/"
+                },
+                {
+                    "name": "博客园",
+                    "value": "https://www.cnblogs.com/"
+                }
+            ],
+            "工具": [
+                {
+                    "name": "程序员工具",
+                    "value": "https://tool.lu/c/developer/"
+                },
+                {
+                    "name": "Linux搜索",
+                    "value": "https://wangchujiang.com/linux-command/"
+                },
+                {
+                    "name": "图片压缩",
+                    "value": "https://tinypng.com/"
+                },
+                {
+                    "name": "Json校验",
+                    "value": "https://jsoneditoronline.org/"
+                },
+                {
+                    "name": "网页归档",
+                    "value": "https://archive.org/web/"
+                },
+                {
+                    "name": "图床",
+                    "value": "https://imgkr.com/"
+                },
+                {
+                    "name": "时间戳转换",
+                    "value": "https://tool.lu/timestamp"
+                }
+            ],
+            "教程": [
+                {
+                    "name": "力扣",
+                    "value": "https://leetcode-cn.com/"
+                },
+                {
+                    "name": "coursera",
+                    "value": "https://www.coursera.org/"
+                },
+                {
+                    "name": "慕课网",
+                    "value": "https://www.imooc.com/"
+                },
+                {
+                    "name": "网易云课堂",
+                    "value": "https://study.163.com/"
+                },
+                {
+                    "name": "蓝桥云课",
+                    "value": "https://www.lanqiao.cn/"
+                },
+                {
+                    "name": "极客时间",
+                    "value": "https://time.geekbang.org/"
+                },
+                {
+                    "name": "菜鸟教程",
+                    "value": "https://www.runoob.com/"
+                }
+            ],
+            "人工智能": [
+                {
+                    "name": "机器之心",
+                    "value": "https://www.jiqizhixin.com/"
+                },
+                {
+                    "name": "阿里云天池",
+                    "value": "https://tianchi.aliyun.com/"
+                },
+                {
+                    "name": "TensorFlow",
+                    "value": "https://www.tensorflow.org/?hl=zh-cn"
+                },
+                {
+                    "name": "paperweekly",
+                    "value": "https://www.paperweekly.site/"
+                },
+                {
+                    "name": "谷歌数据集",
+                    "value": "https://datasetsearch.research.google.com/"
+                },
+                {
+                    "name": "Kaggle",
+                    "value": "https://www.kaggle.com/"
+                },
+                {
+                    "name": "sofasofa",
+                    "value": "http://sofasofa.io/index.php"
+                }
+            ],
+            "大数据": [
+                {
+                    "name": "Hbase",
+                    "value": "http://hbase.apache.org/"
+                },
+                {
+                    "name": "Spark SQL",
+                    "value": "https://spark.apache.org/sql/"
+                },
+                {
+                    "name": "Pig",
+                    "value": "http://pig.apache.org/"
+                },
+                {
+                    "name": "mongo DB",
+                    "value": "https://www.mongodb.com/"
+                },
+                {
+                    "name": "Hive",
+                    "value": "http://hive.apache.org/"
+                },
+                {
+                    "name": "Flink",
+                    "value": "https://flink.apache.org/"
+                },
+                {
+                    "name": "pandas",
+                    "value": "https://pandas.pydata.org/"
+                }
+            ],
+            "前端": [
+                {
+                    "name": "最佳实践",
+                    "value": "https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md"
+                },
+                {
+                    "name": "前站导航",
+                    "value": "https://www.frontendjs.com/"
+                },
+                {
+                    "name": "React",
+                    "value": "https://zh-hans.reactjs.org/"
+                },
+                {
+                    "name": "Angular",
+                    "value": "https://angular.cn/"
+                },
+                {
+                    "name": "js教程",
+                    "value": "https://zh.javascript.info/"
+                },
+                {
+                    "name": "Element",
+                    "value": "https://element.eleme.io/#/zh-CN"
+                },
+                {
+                    "name": "Echarts",
+                    "value": "https://echarts.apache.org/zh/index.html"
+                }
+            ],
+            "服务端": [
+                {
+                    "name": "Java教程",
+                    "value": "https://www.liaoxuefeng.com/wiki/1252599548343744"
+                },
+                {
+                    "name": "wordpress",
+                    "value": "https://wordpress.org/"
+                },
+                {
+                    "name": "Go教程",
+                    "value": "https://github.com/chai2010/advanced-go-programming-book"
+                },
+                {
+                    "name": "python教程",
+                    "value": "https://github.com/ethan-funny/explore-python"
+                },
+                {
+                    "name": "Node.js教程",
+                    "value": "http://nodejs.cn/learn"
+                },
+                {
+                    "name": "Linux教程",
+                    "value": "https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html"
+                },
+                {
+                    "name": "mysql8",
+                    "value": "https://dev.mysql.com/doc/refman/8.0/en/"
+                }
+            ]
+        }
+    },
+    {
+        "group": "机械/机电",
+        "channel": {
+            "资讯": [
+                {
+                    "name": "机械工业网",
+                    "value": "http://info.machine.hc360.com/list/info.shtml"
+                },
+                {
+                    "name": "贤集网",
+                    "value": "https://www.xianjichina.com/news/list_9"
+                },
+                {
+                    "name": "智能制造网",
+                    "value": "https://www.gkzhan.com/"
+                },
+                {
+                    "name": "机电之家",
+                    "value": "http://www.jdzj.com/"
+                },
+                {
+                    "name": "日经技术",
+                    "value": "https://xtech.nikkei.com/"
+                },
+                {
+                    "name": "机械学会",
+                    "value": "https://www.cmes.org/"
+                },
+                {
+                    "name": "中国工程院",
+                    "value": "http://www.cae.cn/cae/html/main/index.html"
+                }
+            ],
+            "工具": [
+                {
+                    "name": "Mechtool",
+                    "value": "https://www.mechtool.cn/index.html"
+                },
+                {
+                    "name": "机械词典",
+                    "value": "https://www.jdzj.com/jixiecidian/index.html"
+                },
+                {
+                    "name": "机械计算器",
+                    "value": "http://www.ab126.com/jijie/"
+                },
+                {
+                    "name": "中服云",
+                    "value": "http://www.csaas.com.cn/"
+                },
+                {
+                    "name": "在线流程图",
+                    "value": "https://www.processon.com/"
+                },
+                {
+                    "name": "CAD看图王",
+                    "value": "https://yun.gstarcad.com/"
+                },
+                {
+                    "name": "EverCraft",
+                    "value": "https://evercraft.co/"
+                }
+            ],
+            "模型下载": [
+                {
+                    "name": "Traceparts",
+                    "value": "https://www.traceparts.cn/zh"
+                },
+                {
+                    "name": "3DSource",
+                    "value": "https://www.zhizaoyun.com/"
+                },
+                {
+                    "name": "GrabCAD",
+                    "value": "https://grabcad.com/"
+                },
+                {
+                    "name": "Misumi",
+                    "value": "https://www.misumi.com.cn/"
+                },
+                {
+                    "name": "Thingiverse",
+                    "value": "https://www.thingiverse.com/explore/popular"
+                },
+                {
+                    "name": "pinshape",
+                    "value": "https://pinshape.com/"
+                },
+                {
+                    "name": "turbosquid",
+                    "value": "https://www.turbosquid.com/"
+                }
+            ],
+            "教程": [
+                {
+                    "name": "大学资源网",
+                    "value": "http://www.dxzy163.com/list/index41.html"
+                },
+                {
+                    "name": "我要自学网",
+                    "value": "https://www.51zxw.net/List.aspx?cid=35"
+                },
+                {
+                    "name": "第二课堂网",
+                    "value": "https://www.dektw.com/course/cat_122/diff_0/vip_0/order_0/"
+                },
+                {
+                    "name": "软件自学网",
+                    "value": "http://www.rjzxw.com/"
+                },
+                {
+                    "name": "聚匠云",
+                    "value": "https://www.eduartisan.com/"
+                },
+                {
+                    "name": "腾讯课堂",
+                    "value": "https://ke.qq.com/course/list?mt=1002&st=2018&tt=3108"
+                },
+                {
+                    "name": "交大mooc",
+                    "value": "http://wmooc.icourses.cn/coursePage/A16_02.html"
+                }
+            ],
+            "行业": [
+                {
+                    "name": "中华轴承网",
+                    "value": "http://www.zcwz.com/"
+                },
+                {
+                    "name": "风机网",
+                    "value": "http://www.chinafengji.net/"
+                },
+                {
+                    "name": "阀门网",
+                    "value": "https://famen.china.cn/"
+                },
+                {
+                    "name": "数控机床网",
+                    "value": "http://www.skjcsc.com/"
+                },
+                {
+                    "name": "工业泵网",
+                    "value": "https://www.bengyechina.com/"
+                },
+                {
+                    "name": "传动网",
+                    "value": "https://www.chuandong.com/"
+                },
+                {
+                    "name": "机器人网",
+                    "value": "http://www.robot-china.com/"
+                }
+            ],
+            "采购": [
+                {
+                    "name": "快工品",
+                    "value": "https://www.kuaigongpin.com/"
+                },
+                {
+                    "name": "工品一号",
+                    "value": "https://www.gpyh.com/"
+                },
+                {
+                    "name": "易买工品",
+                    "value": "http://www.yesmro.cn/"
+                },
+                {
+                    "name": "工牛网",
+                    "value": "http://gnmro.com/"
+                },
+                {
+                    "name": "震坤行",
+                    "value": "https://www.zkh360.com/"
+                },
+                {
+                    "name": "机电猫",
+                    "value": "http://www.yesmro.cn/"
+                },
+                {
+                    "name": "工品优选",
+                    "value": "https://www.vipmro.com/"
+                }
+            ],
+            "招投标": [
+                {
+                    "name": "采购招标网",
+                    "value": "http://www.chinabidding.com.cn/"
+                },
+                {
+                    "name": "招投标平台",
+                    "value": "http://www.cebpubservice.com/"
+                },
+                {
+                    "name": "采招网",
+                    "value": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-9250.html"
+                },
+                {
+                    "name": "千里马",
+                    "value": "http://www.qianlima.com/"
+                },
+                {
+                    "name": "政府采购网",
+                    "value": "http://www.ccgp.gov.cn/"
+                },
+                {
+                    "name": "国际招标网",
+                    "value": "https://chinabidding.mofcom.gov.cn/"
+                },
+                {
+                    "name": "比比网",
+                    "value": "https://www.bibenet.com/"
+                }
+            ],
+            "软件": [
+                {
+                    "name": "AutoCAD",
+                    "value": "https://www.autodesk.com.cn/"
+                },
+                {
+                    "name": "Solidworks",
+                    "value": "https://www.solidworks.com/zh-hans"
+                },
+                {
+                    "name": "Catia",
+                    "value": "https://www.3ds.com/zh/products-services/catia/"
+                },
+                {
+                    "name": "Ansys",
+                    "value": "https://v.ansys.com.cn/"
+                },
+                {
+                    "name": "Adams",
+                    "value": "https://www.mscsoftware.com/zh-hans/product/adams"
+                },
+                {
+                    "name": "Deform",
+                    "value": "https://www.deform.com/products/deform-3d/"
+                },
+                {
+                    "name": "CAXA",
+                    "value": "http://www.caxa.com/"
+                }
+            ]
+        }
+    },
+    {
+        "group": "电子/通信",
+        "channel": {
+            "资讯": [
+                {
+                    "name": "电子发烧友",
+                    "value": "http://www.elecfans.com/"
+                },
+                {
+                    "name": "21IC",
+                    "value": "https://www.21ic.com/"
+                },
+                {
+                    "name": "电子工程师",
+                    "value": "http://www.eeworld.com.cn/"
+                },
+                {
+                    "name": "电子产品",
+                    "value": "http://www.eepw.com.cn/"
+                },
+                {
+                    "name": "Ofweek",
+                    "value": "https://www.ofweek.com/"
+                },
+                {
+                    "name": "EDN",
+                    "value": "https://www.ednchina.com/"
+                },
+                {
+                    "name": "车云网",
+                    "value": "http://www.cheyun.com/"
+                }
+            ],
+            "工具": [
+                {
+                    "name": "在线工具",
+                    "value": "http://www.eechina.com/tools/"
+                },
+                {
+                    "name": "Proteus",
+                    "value": "https://www.labcenter.com/"
+                },
+                {
+                    "name": "AD",
+                    "value": "https://www.altium.com.cn/"
+                },
+                {
+                    "name": "Multisim",
+                    "value": "https://www.ni.com/zh-cn.html"
+                },
+                {
+                    "name": "OrCAD",
+                    "value": "https://www.orcad.com/"
+                },
+                {
+                    "name": "芯片查询",
+                    "value": "http://www.semiee.com/"
+                },
+                {
+                    "name": "滤波器设计",
+                    "value": "http://sim.okawa-denshi.jp/en/Fkeisan.htm"
+                }
+            ],
+            "社区": [
+                {
+                    "name": "汽车电子",
+                    "value": "https://bbs.elecfans.com/zhuti_car_1.html"
+                },
+                {
+                    "name": "Arduino",
+                    "value": "https://www.arduino.cn/"
+                },
+                {
+                    "name": "面包板",
+                    "value": "https://mbb.eet-china.com/"
+                },
+                {
+                    "name": "EDA365",
+                    "value": "https://www.eda365.com/forum.php"
+                },
+                {
+                    "name": "电子森林",
+                    "value": "https://www.eetree.cn/"
+                },
+                {
+                    "name": "开源电子网",
+                    "value": "http://www.openedv.com/"
+                },
+                {
+                    "name": "HackaDay",
+                    "value": "https://hackaday.io/projects"
+                }
+            ],
+            "开源硬件": [
+                {
+                    "name": "Arduino",
+                    "value": "https://www.arduino.cc/"
+                },
+                {
+                    "name": "树莓派",
+                    "value": "https://www.raspberrypi.org/"
+                },
+                {
+                    "name": "BeagleBoard",
+                    "value": "http://beagleboard.org/"
+                },
+                {
+                    "name": "香蕉派",
+                    "value": "https://www.banana-pi.org.cn/"
+                },
+                {
+                    "name": "cubieboard",
+                    "value": "http://cubieboard.org/"
+                },
+                {
+                    "name": "microbit",
+                    "value": "https://www.microbit.org/"
+                },
+                {
+                    "name": "MIXTILE",
+                    "value": "http://www.mixtile.cn/"
+                }
+            ],
+            "课程": [
+                {
+                    "name": "摩尔吧",
+                    "value": "https://www.moore8.com/"
+                },
+                {
+                    "name": "电子芯吧客",
+                    "value": "https://www.icxbk.com/video.html"
+                },
+                {
+                    "name": "达尔闻",
+                    "value": "https://www.darwinlearns.com/"
+                },
+                {
+                    "name": "畅学电子网",
+                    "value": "http://www.eeskill.com/"
+                },
+                {
+                    "name": "电巢学堂",
+                    "value": "https://edu.eda365.com/"
+                },
+                {
+                    "name": "TI培训",
+                    "value": "https://edu.21ic.com/"
+                },
+                {
+                    "name": "我要自学网",
+                    "value": "https://www.51zxw.net/"
+                }
+            ],
+            "采购": [
+                {
+                    "name": "立创商城",
+                    "value": "https://www.szlcsc.com/"
+                },
+                {
+                    "name": "唯样商城",
+                    "value": "https://www.oneyac.com/"
+                },
+                {
+                    "name": "华秋商城",
+                    "value": "https://www.hqchip.com/"
+                },
+                {
+                    "name": "万联芯城",
+                    "value": "https://www.wlxmall.com/"
+                },
+                {
+                    "name": "华强电子网",
+                    "value": "https://www.wlxmall.com/"
+                },
+                {
+                    "name": "114电子网",
+                    "value": "https://www.114ic.com/"
+                },
+                {
+                    "name": "云汉芯城",
+                    "value": "https://www.ickey.cn/"
+                }
+            ],
+            "博客": [
+                {
+                    "name": "吴川斌",
+                    "value": "https://www.mr-wu.cn/"
+                },
+                {
+                    "name": "稚晖",
+                    "value": "http://www.pengzhihui.xyz/"
+                },
+                {
+                    "name": "阿正",
+                    "value": "http://wenzheng.club/"
+                },
+                {
+                    "name": "芯跳不止",
+                    "value": "http://www.mazirong.com/"
+                },
+                {
+                    "name": "邓堪文",
+                    "value": "http://dengkanwen.com/"
+                },
+                {
+                    "name": "3YL",
+                    "value": "http://www.labisart.com/blog/"
+                },
+                {
+                    "name": "Mculover666",
+                    "value": "http://www.mculover666.cn/#indexCard"
+                }
+            ],
+            "行业": [
+                {
+                    "name": "英特尔",
+                    "value": "https://www.intel.cn/content/www/cn/zh/homepage.html"
+                },
+                {
+                    "name": "恩智浦",
+                    "value": "https://www.nxp.com.cn/"
+                },
+                {
+                    "name": "意法半导体",
+                    "value": "https://www.stmicroelectronics.com.cn/content/st_com/zh.html"
+                },
+                {
+                    "name": "德州仪器",
+                    "value": "https://www.ti.com.cn/"
+                },
+                {
+                    "name": "博通",
+                    "value": "https://www.broadcom.cn/"
+                },
+                {
+                    "name": "赛灵思",
+                    "value": "https://china.xilinx.com/"
+                },
+                {
+                    "name": "高通",
+                    "value": "https://www.qualcomm.cn/"
+                }
+            ]
+        }
+    },
+    {
+        "group": "电气/控制",
+        "channel": {
+            "资讯": [
+                {
+                    "name": "工控网",
+                    "value": "http://www.gongkong.com/"
+                },
+                {
+                    "name": "自动化网",
+                    "value": "http://www.ca800.com/"
+                },
+                {
+                    "name": "北岛夜话",
+                    "value": "https://www.founderchip.com/"
+                },
+                {
+                    "name": "中国传动网",
+                    "value": "https://www.chuandong.com/"
+                },
+                {
+                    "name": "PLC之家",
+                    "value": "http://www.plc100.com/"
+                },
+                {
+                    "name": "工业电器网",
+                    "value": "http://www.cnelc.com/"
+                },
+                {
+                    "name": "控制网",
+                    "value": "http://www.kongzhi.net/"
+                }
+            ],
+            "社区": [
+                {
+                    "name": "工控人家园",
+                    "value": "http://www.ymmfa.com/index.php"
+                },
+                {
+                    "name": "工控技术网",
+                    "value": "https://www.eleok.com/"
+                },
+                {
+                    "name": "西门子",
+                    "value": "http://www.ad.siemens.com.cn/club/bbs/welcome.aspx"
+                },
+                {
+                    "name": "亿万论坛",
+                    "value": "http://bbs.e10000.cn/Boards.asp"
+                },
+                {
+                    "name": "工控课堂",
+                    "value": "https://www.gkket.com/"
+                },
+                {
+                    "name": "制造云",
+                    "value": "https://www.zhizaoyun.com/"
+                },
+                {
+                    "name": "工博士",
+                    "value": "http://www.gongboshi.com/"
+                }
+            ],
+            "行业": [
+                {
+                    "name": "施耐德",
+                    "value": "https://www.schneider-electric.cn/zh/"
+                },
+                {
+                    "name": "西门子",
+                    "value": "https://new.siemens.com/cn/zh.html"
+                },
+                {
+                    "name": "正泰",
+                    "value": "http://www.chint.net/zh/"
+                },
+                {
+                    "name": "德力西",
+                    "value": "http://www.delixi.com/"
+                },
+                {
+                    "name": "ABB",
+                    "value": "https://new.abb.com/cn"
+                },
+                {
+                    "name": "三菱电机",
+                    "value": "https://www.mitsubishielectric.com.cn/zh/index.html"
+                },
+                {
+                    "name": "倍加福",
+                    "value": "https://www.pepperl-fuchs.com/china/zh/index.htm"
+                }
+            ],
+            "学习考试": [
+                {
+                    "name": "考试吧",
+                    "value": "http://www.exam8.com/gongcheng/dianqi/"
+                },
+                {
+                    "name": "学堂在线",
+                    "value": "https://www.xuetangx.com/search?query=&org=&classify=24&type=&status=&page=1"
+                },
+                {
+                    "name": "爱课程",
+                    "value": "http://www.icourses.cn/oc/#"
+                },
+                {
+                    "name": "易筑论坛",
+                    "value": "https://bbs.co188.com/group22.html"
+                },
+                {
+                    "name": "大学生自学",
+                    "value": "http://v.dxsbb.com/dianqi/"
+                },
+                {
+                    "name": "网易公开课",
+                    "value": "https://open.163.com/ted"
+                },
+                {
+                    "name": "coursera",
+                    "value": "https://www.coursera.org/"
+                }
+            ],
+            "电商": [
+                {
+                    "name": "机电猫",
+                    "value": "http://www.yesmro.cn/"
+                },
+                {
+                    "name": "工品优选",
+                    "value": "https://www.vipmro.com/"
+                },
+                {
+                    "name": "慧聪网",
+                    "value": "https://www.hc360.com/"
+                },
+                {
+                    "name": "震坤行",
+                    "value": "https://www.zkh360.com/"
+                },
+                {
+                    "name": "工品一号",
+                    "value": "https://www.gpyh.com/"
+                },
+                {
+                    "name": "易买工品",
+                    "value": "http://www.yesmro.cn/"
+                },
+                {
+                    "name": "固安捷",
+                    "value": "https://www.mymro.cn/"
+                }
+            ],
+            "自动化": [
+                {
+                    "name": "基恩士",
+                    "value": "https://www.keyence.com.cn/downloads"
+                },
+                {
+                    "name": "GE",
+                    "value": "https://digitalsupport.ge.com/communities/CC_Home"
+                },
+                {
+                    "name": "松下机电",
+                    "value": "https://device.panasonic.cn/ac/c/dl_center/index.jsp"
+                },
+                {
+                    "name": "LS电气",
+                    "value": "http://lselectric.com.cn/Cn/Download/download/catid/89"
+                },
+                {
+                    "name": "Rockwell",
+                    "value": "https://www.rockwellautomation.com.cn/search/ra_zh_CN;"
+                },
+                {
+                    "name": "图尔克",
+                    "value": "http://pdb2.turck.com.cn/cn/DE/groups"
+                },
+                {
+                    "name": "汇川技术",
+                    "value": "http://www.inovance.cn/support/download.html"
+                }
+            ],
+            "机器人": [
+                {
+                    "name": "ABB",
+                    "value": "https://new.abb.com/products/robotics/zh/"
+                },
+                {
+                    "name": "安川",
+                    "value": "https://www.yaskawa.com.cn/product/robot.aspx"
+                },
+                {
+                    "name": "库卡",
+                    "value": "https://www.kuka.com/zh-cn"
+                },
+                {
+                    "name": "FANUC",
+                    "value": "http://www.shanghai-fanuc.com.cn/"
+                },
+                {
+                    "name": "新松",
+                    "value": "http://pwst.panasonic.cn/technology/ziyuanku.htm"
+                },
+                {
+                    "name": "优傲",
+                    "value": "https://www.universal-robots.cn/"
+                },
+                {
+                    "name": "现代",
+                    "value": "http://robotics.hhichina.com/productList.aspx"
+                }
+            ],
+            "工业互联网": [
+                {
+                    "name": "菲尼克斯",
+                    "value": "https://www.phoenixcontact.com/online/portal/cn"
+                },
+                {
+                    "name": "Anybus",
+                    "value": "https://www.anybus.com/zh/support"
+                },
+                {
+                    "name": "摩莎",
+                    "value": "https://www.moxa.com/en/support/product-support/software-and-documentation"
+                },
+                {
+                    "name": "威琅",
+                    "value": "https://www.wieland-electric.com/en/support/downloads/"
+                },
+                {
+                    "name": "穆尔",
+                    "value": "https://shop.murrelektronik.com/"
+                },
+                {
+                    "name": "万可",
+                    "value": "https://www.wago.com/cn/search?text=*&f=:resultType:download&sort=relevance"
+                },
+                {
+                    "name": "宾德",
+                    "value": "https://www.binder-connector.cn/zh/"
+                }
+            ]
+        }
+    },
+    {
+        "group": "土木/建筑",
+        "channel": {
+            "资讯": [
+                {
+                    "name": "gooood",
+                    "value": "https://www.gooood.cn/"
+                },
+                {
+                    "name": "专筑网",
+                    "value": "http://www.iarch.cn/"
+                },
+                {
+                    "name": "在库言库",
+                    "value": "http://www.ikuku.cn/"
+                },
+                {
+                    "name": "畅言网",
+                    "value": "http://www.archcy.com/"
+                },
+                {
+                    "name": "筑易网",
+                    "value": "https://zhu-yi.net/"
+                },
+                {
+                    "name": "搜建筑",
+                    "value": "https://www.soujianzhu.cn/default.aspx"
+                },
+                {
+                    "name": "建筑邦",
+                    "value": "https://www.architbang.com/main/m/i"
+                }
+            ],
+            "社区": [
+                {
+                    "name": "土木在线",
+                    "value": "https://www.co188.com/"
+                },
+                {
+                    "name": "ABBS",
+                    "value": "http://www.abbs.com.cn/bbs/"
+                },
+                {
+                    "name": "设计E周",
+                    "value": "https://shejiyizhou.com/"
+                },
+                {
+                    "name": "胚子库",
+                    "value": "http://www.piziku.com/"
+                },
+                {
+                    "name": "拓筑在线",
+                    "value": "https://www.eeeetop.com/"
+                },
+                {
+                    "name": "筑龙学社",
+                    "value": "https://photo.zhulong.com/"
+                },
+                {
+                    "name": "久久建筑网",
+                    "value": "https://www.99jianzhu.com/"
+                }
+            ],
+            "BIM": [
+                {
+                    "name": "毕马汇",
+                    "value": "https://www.nbimer.com/materials/bim-models"
+                },
+                {
+                    "name": "Revit中文网",
+                    "value": "http://www.chinarevit.com/"
+                },
+                {
+                    "name": "BIM中国网",
+                    "value": "https://www.cnbim.com/"
+                },
+                {
+                    "name": "筑龙BIM",
+                    "value": "https://bbs.zhulong.com/106010/"
+                },
+                {
+                    "name": "行见BIM",
+                    "value": "https://www.bim188.com/"
+                },
+                {
+                    "name": "品茗BIM",
+                    "value": "http://bim.vip/"
+                },
+                {
+                    "name": "BIM建筑网",
+                    "value": "https://www.uibim.com/"
+                }
+            ],
+            "教程": [
+                {
+                    "name": "专筑讲坛",
+                    "value": "http://v.iarch.cn/"
+                },
+                {
+                    "name": "uzing",
+                    "value": "https://www.uzing.net/index.php"
+                },
+                {
+                    "name": "腿腿教学网",
+                    "value": "http://www.tuituisoft.com/"
+                },
+                {
+                    "name": "网易公开课",
+                    "value": "https://open.163.com/"
+                },
+                {
+                    "name": "爱课程",
+                    "value": "http://www.icourses.cn/home/"
+                },
+                {
+                    "name": "大家网",
+                    "value": "http://www.topsage.com/engineering/jianzhu1/"
+                },
+                {
+                    "name": "学犀牛网校",
+                    "value": "http://wangxiao.xuexiniu.com/"
+                }
+            ],
+            "软件": [
+                {
+                    "name": "欧特克",
+                    "value": "https://www.autodesk.com.cn/"
+                },
+                {
+                    "name": "鲁班软件",
+                    "value": "http://www.lubansoft.com/"
+                },
+                {
+                    "name": "sketchup",
+                    "value": "https://www.sketchup.com/"
+                },
+                {
+                    "name": "广联达",
+                    "value": "https://www.glodon.com/"
+                },
+                {
+                    "name": "PKPM",
+                    "value": "https://www.pkpm.cn/"
+                },
+                {
+                    "name": "RIB",
+                    "value": "https://www.rib-software.com/home"
+                },
+                {
+                    "name": "tekla",
+                    "value": "https://www.tekla.com/"
+                }
+            ],
+            "高校": [
+                {
+                    "name": "清华建筑",
+                    "value": "http://www.arch.tsinghua.edu.cn/"
+                },
+                {
+                    "name": "同济建筑",
+                    "value": "https://caup.tongji.edu.cn/"
+                },
+                {
+                    "name": "重大建筑",
+                    "value": "http://chongjian.cqu.edu.cn/#"
+                },
+                {
+                    "name": "哈工大建筑",
+                    "value": "http://arch.hit.edu.cn/main.htm"
+                },
+                {
+                    "name": "天大建筑",
+                    "value": "http://arch.tju.edu.cn/"
+                },
+                {
+                    "name": "华南理工",
+                    "value": "http://www2.scut.edu.cn/architecture/"
+                },
+                {
+                    "name": "东南大学",
+                    "value": "https://arch.seu.edu.cn/"
+                }
+            ],
+            "众包": [
+                {
+                    "name": "话梅糖",
+                    "value": "http://www.huameitang.com/"
+                },
+                {
+                    "name": "虫筑网",
+                    "value": "http://www.chongzhu.cn/"
+                },
+                {
+                    "name": "猪八戒",
+                    "value": "http://gc.zbj.com/"
+                },
+                {
+                    "name": "万科3P",
+                    "value": "https://www.nosppp.com/"
+                },
+                {
+                    "name": "集成汇",
+                    "value": "http://www.jichenghui.com/"
+                },
+                {
+                    "name": "特赞",
+                    "value": "https://www.tezign.com/"
+                },
+                {
+                    "name": "中都云谷",
+                    "value": "https://www.zdygu.cn/"
+                }
+            ],
+            "资源": [
+                {
+                    "name": "学兔兔",
+                    "value": "http://www.bzfxw.com/"
+                },
+                {
+                    "name": "典尚",
+                    "value": "http://3d.jzsc.net/"
+                },
+                {
+                    "name": "自在建房",
+                    "value": "http://www.zijianfang.cn/"
+                },
+                {
+                    "name": "设计本",
+                    "value": "https://mx.shejiben.com/"
+                },
+                {
+                    "name": "久久建筑网",
+                    "value": "https://www.99jianzhu.com/"
+                },
+                {
+                    "name": "筑龙资料馆",
+                    "value": "https://down6.zhulong.com/"
+                },
+                {
+                    "name": "最角",
+                    "value": "http://www.zuijiao.cn/"
+                }
+            ]
+        }
+    },
+    {
+        "group": "视觉/交互",
+        "channel": {
+            "UI": [
+                {
+                    "name": "UI garage",
+                    "value": "https://uigarage.net/"
+                },
+                {
+                    "name": "dribbble",
+                    "value": "https://dribbble.com/"
+                },
+                {
+                    "name": "pinterest",
+                    "value": "https://www.pinterest.com/"
+                },
+                {
+                    "name": "花瓣",
+                    "value": "https://huaban.com/"
+                },
+                {
+                    "name": "coverr",
+                    "value": "https://coverr.co/"
+                },
+                {
+                    "name": "unsplash",
+                    "value": "https://unsplash.com/"
+                },
+                {
+                    "name": "站酷",
+                    "value": "https://www.zcool.com.cn/"
+                }
+            ],
+            "产品学习": [
+                {
+                    "name": "产品经理",
+                    "value": "http://www.woshipm.com/"
+                },
+                {
+                    "name": "PMCAFF",
+                    "value": "https://www.pmcaff.com/"
+                },
+                {
+                    "name": "起点学院",
+                    "value": "https://www.qidianla.com/"
+                },
+                {
+                    "name": "三节课",
+                    "value": "https://www.sanjieke.cn/"
+                },
+                {
+                    "name": "新趣集",
+                    "value": "https://xinquji.com/"
+                },
+                {
+                    "name": "producthunt",
+                    "value": "https://www.producthunt.com/"
+                },
+                {
+                    "name": "蚕豆产品网",
+                    "value": "https://cdcpnet.com/"
+                }
+            ],
+            "灵感": [
+                {
+                    "name": "Lapa",
+                    "value": "https://www.lapa.ninja/"
+                },
+                {
+                    "name": "abduzeedo",
+                    "value": "https://abduzeedo.com/"
+                },
+                {
+                    "name": "BWG",
+                    "value": "https://bestwebsite.gallery/"
+                },
+                {
+                    "name": "behance",
+                    "value": "https://www.behance.net/"
+                },
+                {
+                    "name": "Muzili",
+                    "value": "https://muz.li/"
+                },
+                {
+                    "name": "landbook",
+                    "value": "https://land-book.com/"
+                },
+                {
+                    "name": "mydesy",
+                    "value": "https://www.mydesy.com/"
+                }
+            ],
+            "产品工具": [
+                {
+                    "name": "摹客",
+                    "value": "https://www.mockplus.cn/sample"
+                },
+                {
+                    "name": "Axure",
+                    "value": "http://www.woshipm.com/xiazai/188927.html"
+                },
+                {
+                    "name": "墨刀",
+                    "value": "https://modao.cc/"
+                },
+                {
+                    "name": "Xmind",
+                    "value": "https://www.xmind.cn/download/"
+                },
+                {
+                    "name": "蓝湖",
+                    "value": "https://lanhuapp.com/prd"
+                },
+                {
+                    "name": "sketch",
+                    "value": "https://www.sketchapp.com/"
+                },
+                {
+                    "name": "justinmind",
+                    "value": "https://www.justinmind.com/"
+                }
+            ],
+            "设计工具": [
+                {
+                    "name": "fotor",
+                    "value": "https://www.fotor.com.cn/"
+                },
+                {
+                    "name": "autodraw",
+                    "value": "https://www.autodraw.com/"
+                },
+                {
+                    "name": "figma",
+                    "value": "https://www.figma.com/"
+                },
+                {
+                    "name": "SVG Draw",
+                    "value": "https://editor.method.ac/"
+                },
+                {
+                    "name": "tinypng",
+                    "value": "https://tinypng.com/"
+                },
+                {
+                    "name": "cloudconvert",
+                    "value": "https://cloudconvert.com/"
+                },
+                {
+                    "name": "图标设计",
+                    "value": "https://loading.io/"
+                }
+            ],
+            "图库": [
+                {
+                    "name": "pexels",
+                    "value": "https://www.pexels.com/zh-cn/"
+                },
+                {
+                    "name": "pixabay",
+                    "value": "https://pixabay.com/zh/"
+                },
+                {
+                    "name": "inspirationde",
+                    "value": "https://www.inspirationde.com/"
+                },
+                {
+                    "name": "magdeleine",
+                    "value": "https://magdeleine.co/browse/"
+                },
+                {
+                    "name": "zoommy",
+                    "value": "https://zoommyapp.com/"
+                },
+                {
+                    "name": "splitshire",
+                    "value": "https://www.splitshire.com/"
+                },
+                {
+                    "name": "streetwill",
+                    "value": "http://streetwill.co/"
+                }
+            ],
+            "icon": [
+                {
+                    "name": "iconfont",
+                    "value": "https://www.iconfont.cn/"
+                },
+                {
+                    "name": "iconsfeed",
+                    "value": "http://www.iconsfeed.com/"
+                },
+                {
+                    "name": "flaticon",
+                    "value": "https://www.flaticon.com/"
+                },
+                {
+                    "name": "Ios IconGallery",
+                    "value": "https://www.iosicongallery.com/"
+                },
+                {
+                    "name": "Easyicon",
+                    "value": "https://www.easyicon.net/"
+                },
+                {
+                    "name": "icon store",
+                    "value": "https://iconstore.co/"
+                },
+                {
+                    "name": "Logobook",
+                    "value": "http://www.logobook.com/"
+                }
+            ],
+            "规范": [
+                {
+                    "name": "安卓尺寸",
+                    "value": "https://material.io/blog/device-metrics"
+                },
+                {
+                    "name": "WeUI",
+                    "value": "https://weui.io/"
+                },
+                {
+                    "name": "apple 设计",
+                    "value": "https://developer.apple.com/design/"
+                },
+                {
+                    "name": "安卓设计",
+                    "value": "https://developer.android.com/design"
+                },
+                {
+                    "name": "微软设计",
+                    "value": "https://www.microsoft.com/design"
+                },
+                {
+                    "name": "material设计",
+                    "value": "https://material.io/"
+                },
+                {
+                    "name": "Google设计",
+                    "value": "https://design.google/"
+                }
+            ]
+        }
+    }
+]

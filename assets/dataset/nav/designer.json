@@ -1,0 +1,3954 @@
+[
+    {
+        "group": "UI",
+        "channel": {
+            "热门推荐": [
+                {
+                    "name": "站酷",
+                    "value": "https://www.zcool.com.cn/"
+                },
+                {
+                    "name": "Dribbble",
+                    "value": "https://dribbble.com/"
+                },
+                {
+                    "name": "优设",
+                    "value": "https://www.uisdc.com/"
+                },
+                {
+                    "name": "UI中国",
+                    "value": "https://www.ui.cn/"
+                },
+                {
+                    "name": "花瓣",
+                    "value": "https://huaban.com/"
+                },
+                {
+                    "name": "Behance（翻墙）",
+                    "value": "https://www.behance.net/"
+                },
+                {
+                    "name": "Freepik",
+                    "value": "https://www.freepik.com/"
+                },
+                {
+                    "name": "美叶",
+                    "value": "https://www.meiye.art/"
+                },
+                {
+                    "name": "腾讯设计导航",
+                    "value": "https://idesign.qq.com/"
+                },
+                {
+                    "name": "住小帮",
+                    "value": "https://m.zhuxiaobang.com/inspiration"
+                },
+                {
+                    "name": "太平洋家居",
+                    "value": "https://dingzhi.pchouse.com.cn/"
+                },
+                {
+                    "name": "太平洋家居",
+                    "value": "https://m.pchouse.com.cn/dingzhi"
+                },
+                {
+                    "name": "土巴兔",
+                    "value": "https://xiaoguotu.to8to.com/case/zxanli/"
+                },
+                {
+                    "name": "土巴兔",
+                    "value": "https://m.to8to.com/xiaoguotu/"
+                },
+                {
+                    "name": "酷家乐",
+                    "value": "https://www.kujiale.com/xiaoguotu/suggestion"
+                },
+                {
+                    "name": "一兜糖",
+                    "value": "https://www.yidoutang.com/case/"
+                },
+                {
+                    "name": "设计家",
+                    "value": "https://m.shejijia.com/design3d?spm=a214ze.13279733.0.0"
+                },
+                {
+                    "name": "好好住",
+                    "value": "https://www.haohaozhu.cn/community/discover"
+                },
+                {
+                    "name": "齐家网",
+                    "value": "https://tuku.jia.com/"
+                },
+                {
+                    "name": "WWDC23-Videos-Apple.Developer",
+                    "value": "https://developer.apple.com/videos/wwdc2023/"
+                }
+            ],
+            "灵感创意": [
+                {
+                    "name": "优设灵感",
+                    "value": "https://uiiiuiii.com/inspiration"
+                },
+                {
+                    "name": "原创馆",
+                    "value": "https://ycg.qq.com/"
+                },
+                {
+                    "name": "创意作品",
+                    "value": "https://www.ycyui.com/works.html"
+                },
+                {
+                    "name": "古田路9号",
+                    "value": "https://www.gtn9.com/creative_list.aspx"
+                },
+                {
+                    "name": "68Design",
+                    "value": "https://www.68design.net/work/"
+                },
+                {
+                    "name": "CND设计作品",
+                    "value": "http://www.cndesign.com/opus/"
+                },
+                {
+                    "name": "TOPYS",
+                    "value": "https://www.topys.cn/"
+                },
+                {
+                    "name": "设计达人",
+                    "value": "https://www.shejidaren.com/"
+                },
+                {
+                    "name": "视觉灵感",
+                    "value": "http://shijue.me/community/discovery"
+                },
+                {
+                    "name": "Inspiration",
+                    "value": "https://www.inspirationde.com/popular/"
+                },
+                {
+                    "name": "Collect UI",
+                    "value": "https://collectui.com/"
+                },
+                {
+                    "name": "UI Movement",
+                    "value": "https://uimovement.com/"
+                },
+                {
+                    "name": "Awwwards",
+                    "value": "https://www.awwwards.com/"
+                },
+                {
+                    "name": "Reeoo",
+                    "value": "http://reeoo.com/"
+                },
+                {
+                    "name": "Straightline",
+                    "value": "http://bm.straightline.jp/"
+                },
+                {
+                    "name": "Sketchfab",
+                    "value": "https://sketchfab.com/3d-models/popular"
+                },
+                {
+                    "name": "My Modern Met",
+                    "value": "https://mymodernmet.com/"
+                }
+            ],
+            "icon.魔法Bug": [
+                {
+                    "name": "特殊符号",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7.html"
+                },
+                {
+                    "name": "图标：academicons",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Aacademicons.html"
+                },
+                {
+                    "name": "图标：bootstrap-icons",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Abootstrap-icons.html"
+                },
+                {
+                    "name": "图标：flag-icon-css",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Aflag-icon-css.html"
+                },
+                {
+                    "name": "图标：font-awesome.4.7.0",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Afont-awesome.4.7.0.html"
+                },
+                {
+                    "name": "图标：font-awesome.6.4.0",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Afont-awesome.6.4.0.html"
+                },
+                {
+                    "name": "图标：ionicons",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Aionicons.html"
+                },
+                {
+                    "name": "图标：material-design-iconic-font",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Amaterial-design-iconic-font.html"
+                },
+                {
+                    "name": "图标：open-iconic",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Aopen-iconic.html"
+                },
+                {
+                    "name": "图标：openwebicons",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Aopenwebicons.html"
+                },
+                {
+                    "name": "图标：simple-line-icons",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Asimple-line-icons.html"
+                },
+                {
+                    "name": "图标：tabler-icons",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Atabler-icons.html"
+                },
+                {
+                    "name": "图标：vuepress-theme-hope",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Avuepress-temp-hope.html"
+                },
+                {
+                    "name": "图标：weather-icons",
+                    "value": "https://mpbug.gitee.io/views/DevLog/Design/UI/Icon/%E5%9B%BE%E6%A0%87%EF%BC%9Aweather-icons.html"
+                }
+            ],
+            "icon":[
+                {
+                    "name": "图标下载 - 素材集市",
+                    "value": "http://www.sucaijishi.com/icon/",
+                    "des": "高质量矢量图标素材，让您的设计脱颖而出。"
+                },
+                {
+                    "name": "🤣 Emoji表情大全，颜文字百科 💌 - EmojiXD",
+                    "value": "https://emojixd.com/",
+                    "des": "Emoji百科全书📚收录了所有emoji，帮你通过分类或者搜索轻松找到合适的表情符号，并了解各种emoji符号的相关知识和使用情景。最近热门emoji：🍹🐼💑🍱💝⛹️💃🍟🍦"
+                },
+                {
+                    "name": "SYMBL (◕‿◕) 符号，表情符号，象形文字，文字，字母表和整个Unicode",
+                    "value": "https://symbl.cc/cn/",
+                    "des": "Unicode (萬國碼、國際碼、統一碼) 字符搜索Web服务。 查找并复制您最喜欢的角色：😎表情符号，▶Ar箭头，✪星星，💲货币，🈂️书写系统等🚩"
+                },
+                {
+                    "name": "在线生成透明ICO图标——ICO图标制作",
+                    "value": "https://www.ico51.cn/",
+                    "des": "提供ico图标在线制作、快速ico图标制作、icon图标制作、favicon、可以将png转ico、favicon在线制作、所有图片转ico，透明ico图标制作、动态ico图标制作方法及将所制作的ico图标下载下来，作为favicon.ico文件。"
+                },
+                {
+                    "name": "Free Icons, Clipart Illustrations, Photos, and Music",
+                    "value": "https://icons8.com/",
+                    "des": "Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers → consistent quality ⚡️"
+                },
+                {
+                    "name": "奥森图标",
+                    "value": "http://www.thinkcmf.com/font/search.html",
+                    "des": "提供丰富的矢量字体图标，可以通过css控制所有图标的样式"
+                },
+                {
+                    "name": "FontAwesome中文4.7.0版",
+                    "value": "https://fontawesome.com.cn/v4/icons",
+                    "des": "一款风靡全球的图标字体库和CSS框架"
+                },
+                {
+                    "name": "FontAwesome中文",
+                    "value": "https://fontawesome.com.cn/",
+                    "des": "一款风靡全球的图标字体库和CSS框架"
+                },
+                {
+                    "name": "Unicode Blocks",
+                    "value": "https://www.fuhaoku.net/blocks",
+                    "des": "Unicode字符库 > Unicode（统一码）所有区段"
+                },
+                {
+                    "name": "Unicode 杂项符号",
+                    "value": "https://fuhaoku.net/block/Misc_Symbols",
+                    "des": "Unicode字符库 > Unicode区段：杂项符号"
+                },
+                {
+                    "name": "Axmax",
+                    "value": "https://axmax.cn/",
+                    "des": "开箱即用的产品设计资源库"
+                },
+                {
+                    "name": "FindIcons",
+                    "value": "http://findicons.com/",
+                    "des": "从黑白图标到3D彩色图标的各类品种免费获取"
+                },
+                {
+                    "name": "flaticon",
+                    "value": "https://www.flaticon.com/",
+                    "des": "超过160000个扁平化图标免费下载"
+                },
+                {
+                    "name": "FontAwesome",
+                    "value": "http://fontawesome.io/",
+                    "des": "一款风靡全球的图标字体库和CSS框架"
+                },
+                {
+                    "name": "Fontello",
+                    "value": "http://fontello.com/",
+                    "des": "创建属于你自己的webfont字体，并且免费下载"
+                },
+                {
+                    "name": "Icomoon",
+                    "value": "https://icomoon.io/",
+                    "des": "APP在线图标字体生成器"
+                },
+                {
+                    "name": "Icon Archive",
+                    "value": "http://www.iconarchive.com/",
+                    "des": "各种图标，各种尺寸应有尽有"
+                },
+                {
+                    "name": "Icon Gallery",
+                    "value": "http://icongal.com/",
+                    "des": "快速搜索、免费下载各种小图标"
+                },
+                {
+                    "name": "Icon Park",
+                    "value": "https://iconpark.oceanengine.com/official",
+                    "des": "字节跳动旗下字体图标库"
+                },
+                {
+                    "name": "Iconfinder",
+                    "value": "https://www.iconfinder.com/",
+                    "des": "免费图标搜索引擎。可以找到大公司的logo大图。有png，svg等格式"
+                },
+                {
+                    "name": "Iconfont",
+                    "value": "http://www.iconfont.cn/",
+                    "des": "阿里巴巴矢量字体图标库"
+                },
+                {
+                    "name": "iconninja",
+                    "value": "http://www.iconninja.com/",
+                    "des": "海量图标搜索可生成css sprites"
+                },
+                {
+                    "name": "iconsdb",
+                    "value": "http://www.iconsdb.com/",
+                    "des": "免费的可自定义的图标"
+                },
+                {
+                    "name": "iconsfeed",
+                    "value": "http://www.iconsfeed.com/",
+                    "des": "iOS系统应用图标收集和分享"
+                },
+                {
+                    "name": "iconstore",
+                    "value": "http://iconstore.co/",
+                    "des": "免费商用的高质量图标素材站"
+                },
+                {
+                    "name": "iosicongallery",
+                    "value": "http://iosicongallery.com/",
+                    "des": "iOS图标集锦"
+                },
+                {
+                    "name": "The Noun Project",
+                    "value": "https://thenounproject.com/",
+                    "des": "依据审美风格的一致性提供免费图标资源"
+                },
+                {
+                    "name": "SVG Repo - Free SVG Vectors and Icons",
+                    "value": "https://www.svgrepo.com/",
+                    "des": "Free Vectors and Icons in SVG format. ✅ Download free mono or multi color vectors for commercial use. Search in 500.000+ Free SVG Vectors and Icons."
+                },
+                {
+                    "name": "PNG Repo - Free Quality PNG Icons and Graphics",
+                    "value": "https://www.pngrepo.com/"
+                }
+            ],
+            "LOGO": [
+                {
+                    "name": "LOGO神器",
+                    "value": "https://www.logosc.cn/",
+                    "des": "智能LOGO设计生成器"
+                },
+                {
+                    "name": "LOGOFree",
+                    "value": "http://www.logofree.cn/logo.html",
+                    "des": "LOGO在线制作工具"
+                },
+                {
+                    "name": "藏标网",
+                    "value": "http://logonc.com/",
+                    "des": "LOGO设计分享灵感平台"
+                },
+                {
+                    "name": "LOGO之家",
+                    "value": "http://www.logozj.com/",
+                    "des": "为设计爱好者提供学习和创作的灵感"
+                },
+                {
+                    "name": "Logo Spire",
+                    "value": "http://logospire.com/",
+                    "des": "一个收集优质LOGO资源的网站"
+                },
+                {
+                    "name": "Logo Faves",
+                    "value": "http://logofaves.com/",
+                    "des": "收集分享各种高质量的品牌LOGO网站"
+                },
+                {
+                    "name": "Seek Logo",
+                    "value": "http://seeklogo.com/",
+                    "des": "提供了超过二十万个矢量logo和便捷的搜索服务"
+                },
+                {
+                    "name": "World Vector Logo",
+                    "value": "https://worldvectorlogo.com/",
+                    "des": "一个免费、无任何限制的品牌LOGO素材下载网站"
+                },
+                {
+                    "name": "Logo Of The Day",
+                    "value": "http://logooftheday.com/",
+                    "des": "汇集了世界各地优秀LOGO作品的站点"
+                },
+                {
+                    "name": "Logo Moose",
+                    "value": "https://www.logomoose.com/",
+                    "des": "一个专门收集、分享各种设计LOGO图片的网站"
+                },
+                {
+                    "name": "Logo Pond",
+                    "value": "https://logopond.com/",
+                    "des": "国外一个专门收集各种LOGO图标的网站"
+                }
+            ],
+            "素材": [
+                {
+                    "name": "90设计网",
+                    "value": "http://90sheji.com/",
+                    "des": "专注电商精品素材网站"
+                },
+                {
+                    "name": "365PSD",
+                    "value": "http://cn.365psd.com/",
+                    "des": "免费的PSD素材下载网站"
+                },
+                {
+                    "name": "阿里矢量图标库",
+                    "value": "https://www.iconfont.cn/"
+                },
+                {
+                    "name": "爱给网",
+                    "value": "http://www.aigei.com/"
+                },
+                {
+                    "name": "百变纹理",
+                    "value": "https://www.transparenttextures.com/",
+                    "des": "优质的无缝纹理下载网站之一，可以通过选色器选择你需要的颜色背景，直接预览"
+                },
+                {
+                    "name": "包图网",
+                    "value": "https://ibaotu.com/?spm=bddh",
+                    "des": "专注原创商用图片下载，每天免费2个"
+                },
+                {
+                    "name": "耳聆网",
+                    "value": "https://www.ear0.com/"
+                },
+                {
+                    "name": "稿定素材",
+                    "value": "https://www.gaoding.com/utms/6433ba0f879855bf9b289ffc2bd7c9ae",
+                    "des": "一个专注于正版授权素材的网站"
+                },
+                {
+                    "name": "红动中国",
+                    "value": "http://www.redocn.com/",
+                    "des": "侧重于平面类的设计师社区"
+                },
+                {
+                    "name": "花瓣美素",
+                    "value": "http://www.meisupic.com/",
+                    "des": "花瓣旗下素材下载网站"
+                },
+                {
+                    "name": "汇图网",
+                    "value": "http://www.huitu.com/",
+                    "des": "国内领先的正版商业图库！原创作品交易平台"
+                },
+                {
+                    "name": "家具资料网_家具行业素材大搜罗！",
+                    "value": "https://www.jiajuziliao.com/",
+                    "des": "专注于家具行业的设计素材分享！"
+                },
+                {
+                    "name": "聚图网",
+                    "value": "http://www.juimg.com/",
+                    "des": "海量设计素材下载网站！百万高清图片素材下载"
+                },
+                {
+                    "name": "美工云",
+                    "value": "http://www.meigongyun.com/",
+                    "des": "专业海外商业设计素材分享平台"
+                },
+                {
+                    "name": "觅元素",
+                    "value": "http://www.51yuansu.com/all/",
+                    "des": "设计元素的免费下载png免抠素材高清背景素材"
+                },
+                {
+                    "name": "免费矢量插图素材",
+                    "value": "https://icons8.cn/illustrations",
+                    "des": "免费的高品质矢量图标插图素材网站"
+                },
+                {
+                    "name": "免费图片/壁纸",
+                    "value": "http://guozhivip.com/imgs.html"
+                },
+                {
+                    "name": "免费网站模板",
+                    "value": "https://freewebsitetemplates.com/",
+                    "des": "有几百个免费网站模板下载，可以挑着看看"
+                },
+                {
+                    "name": "昵图网",
+                    "value": "http://nipic.com/",
+                    "des": "原创设计素材共享平台"
+                },
+                {
+                    "name": "欧模网",
+                    "value": "https://www.om.cn/",
+                    "des": "300万设计师都在用的室内设计3d模型下载网站"
+                },
+                {
+                    "name": "汽车图标",
+                    "value": "https://www.iconsdb.com/caribbean-blue-icons/caribbean-blue-car-logo-icons.html",
+                    "des": "汽车图标资源"
+                },
+                {
+                    "name": "千库网",
+                    "value": "http://588ku.com/",
+                    "des": "一个免费下载图片素材的网站"
+                },
+                {
+                    "name": "千图网",
+                    "value": "http://www.58pic.com/",
+                    "des": "专注免费设计素材下载的网站"
+                },
+                {
+                    "name": "设计学习网",
+                    "value": "http://ffjianzhan.cn/",
+                    "des": "设计师交流的平台！设计素材网站"
+                },
+                {
+                    "name": "素材中国",
+                    "value": "http://www.sccnn.com/",
+                    "des": "海量免费素材共享平台"
+                },
+                {
+                    "name": "图翼网",
+                    "value": "http://www.tuyiyi.com/",
+                    "des": "设计师互动分享平台"
+                },
+                {
+                    "name": "图鱼",
+                    "value": "https://www.hituyu.com/",
+                    "des": "高质量无缝平铺的PPT背景图片、网页纹理背景素材、PS设计底纹素材"
+                },
+                {
+                    "name": "我图网",
+                    "value": "http://www.ooopic.com/",
+                    "des": "设计素材、设计图片"
+                },
+                {
+                    "name": "享设计",
+                    "value": "https://www.design006.com/",
+                    "des": "作品设计共享交易平台"
+                },
+                {
+                    "name": "写真素材",
+                    "value": "https://www.pakutaso.com/"
+                },
+                {
+                    "name": "站酷",
+                    "value": "https://www.zcool.com.cn/home",
+                    "des": "设计书互动平台"
+                },
+                {
+                    "name": "站长素材.音效",
+                    "value": "http://sc.chinaz.com/yinxiao/",
+                    "des": "音效下载、音效素材、音效网_站长素材"
+                },
+                {
+                    "name": "AE模板网",
+                    "value": "https://aemuban.com/",
+                    "des": "AE模板|免费Ae视频特效素材ae片头动画cg资源下载"
+                },
+                {
+                    "name": "brusheezy",
+                    "value": "https://www.brusheezy.com/",
+                    "des": "免费的Photoshop笔刷和PSD素材分享下载网站"
+                },
+                {
+                    "name": "brushes8",
+                    "value": "http://brushes8.com/",
+                    "des": "海量PhotoShop笔刷素材免费下载平台"
+                },
+                {
+                    "name": "CG99-CG设计网",
+                    "value": "https://www.cg99.com/",
+                    "des": "专注全球CG设计行业，以CG模型为主的资源下载和分享平台。"
+                },
+                {
+                    "name": "colorlib",
+                    "value": "https://colorlib.com/wp/templates/",
+                    "des": "可能是最好的WordPress主题网站，分类齐全"
+                },
+                {
+                    "name": "DinPattern",
+                    "value": "http://www.dinpattern.com/",
+                    "des": "想象力一流的、很有艺术范儿的免费纹理素材网站"
+                },
+                {
+                    "name": "Download PSD",
+                    "value": "https://downloadpsd.cc/",
+                    "des": "国外免费的PSD资源下载网站"
+                },
+                {
+                    "name": "DR模板网",
+                    "value": "https://drmuban.com/",
+                    "des": "达芬奇模板 达芬奇调色 达芬奇剪辑视频素材下载"
+                },
+                {
+                    "name": "Emoji",
+                    "value": "https://getemoji.com/"
+                },
+                {
+                    "name": "emoji表情库",
+                    "value": "https://emojipedia.org/"
+                },
+                {
+                    "name": "Emoji表情图标",
+                    "value": "https://joypixels.com/emoji"
+                },
+                {
+                    "name": "Entheos Templates",
+                    "value": "https://templates.entheosweb.com/",
+                    "des": "强大的模板库，包括最流行的响应式网页、HTML5酷站等"
+                },
+                {
+                    "name": "Fbrushes",
+                    "value": "http://fbrushes.com/",
+                    "des": "免费的PS笔刷工具资源下载网站"
+                },
+                {
+                    "name": "FCPX模板网",
+                    "value": "https://fcpxm.com/",
+                    "des": "FCPX模板 FCPX插件 免费fcpx资源素材下载网站"
+                },
+                {
+                    "name": "Feather",
+                    "value": "https://feathericons.com/"
+                },
+                {
+                    "name": "Free CSS",
+                    "value": "https://www.free-css.com/",
+                    "des": "提供上千款免费的CSS模板、CSS布局等"
+                },
+                {
+                    "name": "FreeBiesbug",
+                    "value": "http://freebiesbug.com/",
+                    "des": "一个致力于帮助网页设计师、产品设计师寻找最优秀的网页素材、优秀代码、免费字体及其他各种资源的站点"
+                },
+                {
+                    "name": "Freepik",
+                    "value": "http://www.freepik.com/",
+                    "des": "免费高质量矢量图下载"
+                },
+                {
+                    "name": "Graphicsfuel",
+                    "value": "https://www.graphicsfuel.com/",
+                    "des": "免费PSD资源、图形和网页设计资源下载"
+                },
+                {
+                    "name": "Iconfinder",
+                    "value": "https://www.iconfinder.com/icon-sets/popular"
+                },
+                {
+                    "name": "IconPark",
+                    "value": "https://iconpark.bytedance.com/official"
+                },
+                {
+                    "name": "icons8",
+                    "value": "https://igoutu.cn/illustrations"
+                },
+                {
+                    "name": "IconStore",
+                    "value": "https://iconstore.co/"
+                },
+                {
+                    "name": "ICONSVG",
+                    "value": "https://iconsvg.xyz/"
+                },
+                {
+                    "name": "Ikonate",
+                    "value": "https://ikonate.com/"
+                },
+                {
+                    "name": "Industrial Fx",
+                    "value": "https://www.industrialfx.com/texturelovers",
+                    "des": "收集全球免费的纹理，教程"
+                },
+                {
+                    "name": "IRA Design",
+                    "value": "https://iradesign.io/gallery/illustrations"
+                },
+                {
+                    "name": "ITG",
+                    "value": "https://itg.digital/",
+                    "des": "可以在线做插画的编辑器。500矢量插图和100万独特的组合"
+                },
+                {
+                    "name": "Limitless Avatars",
+                    "value": "https://limitlessdesigns.io/avatar-illustrations/",
+                    "des": "免费头像插图集，可商用可个人"
+                },
+                {
+                    "name": "Lostand Taken",
+                    "value": "https://lostandtaken.com/",
+                    "des": "免费、高分辨率纹理素材"
+                },
+                {
+                    "name": "ManyPixels",
+                    "value": "https://www.manypixels.co/gallery/"
+                },
+                {
+                    "name": "Noise Texture Generator",
+                    "value": "http://www.noisetexturegenerator.com/",
+                    "des": "在线纹理生成网站，可调整不透明度和杂色数量等"
+                },
+                {
+                    "name": "Open Doodles",
+                    "value": "https://www.opendoodles.com/"
+                },
+                {
+                    "name": "OS Templates",
+                    "value": "https://www.os-templates.com/",
+                    "des": "大量免费优质的网站、框架及单页模板，可下载PSD"
+                },
+                {
+                    "name": "Pattern8",
+                    "value": "http://pattern8.com/",
+                    "des": "免费的在线纹理素材分享网站，资源丰富，都是很有个性风格的纹理"
+                },
+                {
+                    "name": "PatternLibrary",
+                    "value": "http://thepatternlibrary.com/",
+                    "des": "随机下拉背景纹理酷"
+                },
+                {
+                    "name": "Pixeden",
+                    "value": "http://www.pixeden.com/",
+                    "des": "免费高质量设计素材模板分享"
+                },
+                {
+                    "name": "Placeit",
+                    "value": "https://placeit.net/",
+                    "des": "在几秒钟内创建样机，徽标，视频和设计！"
+                },
+                {
+                    "name": "PNG img",
+                    "value": "https://pngimg.com/"
+                },
+                {
+                    "name": "Pr素材网",
+                    "value": "https://www.prsucai.com/",
+                    "des": "Pr素材_Premiere模板pr转场特效视频剪辑素材下载"
+                },
+                {
+                    "name": "Ps Brushes",
+                    "value": "http://www.psbrushes.net/",
+                    "des": "免费的PS笔刷分享、下载平台"
+                },
+                {
+                    "name": "PSDboom",
+                    "value": "http://psdboom.com/",
+                    "des": "一个提供免费PSD、设计素材、网页模版、LOGO 印刷品下载以及收录各式背景的站点。"
+                },
+                {
+                    "name": "Psddd",
+                    "value": "http://www.psddd.co/",
+                    "des": "搜集来自Dribbble的优秀设计图片，免费分享下载"
+                },
+                {
+                    "name": "Qbrushes",
+                    "value": "http://qbrushes.net/",
+                    "des": "免费的PS笔刷分享、下载平台"
+                },
+                {
+                    "name": "Sketch Repo",
+                    "value": "https://sketchrepo.com/"
+                },
+                {
+                    "name": "Sketchfab",
+                    "value": "https://sketchfab.com/",
+                    "des": "全球最极致3D设计模型在线展示平台"
+                },
+                {
+                    "name": "SQUARESPACE",
+                    "value": "https://www.squarespace.com/templates/",
+                    "des": "知名的建站和发布工具，有多种类型的模板供选择借鉴"
+                },
+                {
+                    "name": "StickPNG",
+                    "value": "https://www.stickpng.com/",
+                    "des": "免扣背景图像素材"
+                },
+                {
+                    "name": "Streamline",
+                    "value": "https://app.streamlineicons.com/streamline-regular",
+                    "des": "超全素材库"
+                },
+                {
+                    "name": "su模型网",
+                    "value": "https://www.sumodel.com/",
+                    "des": "专业su模型素材下载网站"
+                },
+                {
+                    "name": "TablerIcons",
+                    "value": "https://tablericons.com/",
+                    "des": "可高度定制的免费 SVG 图标库"
+                },
+                {
+                    "name": "Template Monster",
+                    "value": "https://www.templatemonster.com/",
+                    "des": "著名的网页模版库，借鉴和学习网页趋势的宝地"
+                },
+                {
+                    "name": "Texture King",
+                    "value": "https://www.textureking.com/",
+                    "des": "免费的高分辨率顶尖纹理，可以商用"
+                },
+                {
+                    "name": "Texturevault",
+                    "value": "http://www.texturevault.net/",
+                    "des": "免费的纹理背景图片资源分享、下载网站"
+                },
+                {
+                    "name": "ThemeForest",
+                    "value": "https://themeforest.net/category/site-templates",
+                    "des": "TF的模版频道，业内最大的网站模板和CMS主题商城之一"
+                },
+                {
+                    "name": "ToIcon",
+                    "value": "https://www.toicon.com/"
+                },
+                {
+                    "name": "TvcKu影库",
+                    "value": "http://www.tvcku.cn/",
+                    "des": "你的影视设计素材库！优秀影视设计资源下载平台"
+                },
+                {
+                    "name": "UI Download",
+                    "value": "http://www.uidownload.com/",
+                    "des": "超级多的免费PSD资源下载"
+                },
+                {
+                    "name": "UI Store",
+                    "value": "https://www.uistore.design/",
+                    "des": "626个免费的精选UI设计组件下载！"
+                },
+                {
+                    "name": "UI设计大作",
+                    "value": "https://www.uidazuo.cn/",
+                    "des": "专注UI设计素材分享"
+                },
+                {
+                    "name": "UI设计素材",
+                    "value": "http://sucai.sketchchina.com/"
+                },
+                {
+                    "name": "UI设计素材网",
+                    "value": "https://www.sighted.cn/",
+                    "des": "优质UI设计素材免费下载"
+                },
+                {
+                    "name": "UIcloud",
+                    "value": "http://ui-cloud.com/",
+                    "des": "【国外】最大的用户体验设计资源库"
+                },
+                {
+                    "name": "Unblast",
+                    "value": "https://unblast.com/"
+                },
+                {
+                    "name": "unDraw",
+                    "value": "https://undraw.co/illustrations"
+                },
+                {
+                    "name": "Vecteezy",
+                    "value": "https://www.vecteezy.com/",
+                    "des": "免费矢量素材搜索和下载"
+                },
+                {
+                    "name": "vectorhq",
+                    "value": "http://cn.vectorhq.com/",
+                    "des": "免费的矢量图和PS资源，超过40万+的资源免费下载"
+                },
+                {
+                    "name": "W3",
+                    "value": "https://w3layouts.com/",
+                    "des": "提供3000+个免费的网页模版下载，分类详细"
+                }
+            ],
+            "图库": [
+                {
+                    "name": "35photo",
+                    "value": "http://35photo.ru/",
+                    "des": "推荐！一个高质量图片分享平台，张张精品"
+                },
+                {
+                    "name": "别样网",
+                    "value": "http://www.ssyer.com/",
+                    "des": "无版权免费大尺寸图片共享平台"
+                },
+                {
+                    "name": "潮点视频素材",
+                    "value": "https://shipin520.com/",
+                    "des": "530万版权视频/图片素材免费下载"
+                },
+                {
+                    "name": "東京無料写真素材",
+                    "value": "https://www.tokyo-date.net/",
+                    "des": "这个找日本东京图片必选网站之一，分类是从"
+                },
+                {
+                    "name": "法国图片门户网",
+                    "value": "http://www.photo.fr/",
+                    "des": "网站不错，有精彩的杂志封面"
+                },
+                {
+                    "name": "故宫图库",
+                    "value": "http://theme.npm.edu.tw/opendata/",
+                    "des": "国立故宫博物院70,000张图片资料，主题涵盖"
+                },
+                {
+                    "name": "免费版权图片",
+                    "value": "https://www.logosc.cn/so/",
+                    "des": "一键搜索多家免版权图库，再也不用担心商用图片侵权了"
+                },
+                {
+                    "name": "纽约公共图书馆",
+                    "value": "https://digitalcollections.nypl.org/",
+                    "des": "18万张高画质相片，免费下载使用，无须取得"
+                },
+                {
+                    "name": "日本KabeGami壁纸网",
+                    "value": "http://www.kabegami.com/",
+                    "des": "人气壁纸站点，也提供摄影写真作品交流"
+                },
+                {
+                    "name": "瑞典Niklas Alm摄影网",
+                    "value": "https://www.niklasalm.se/",
+                    "des": "高端大气上档次！摄影师Niklas Alm作品展示网站"
+                },
+                {
+                    "name": "实景图片",
+                    "value": "https://www.jldb.bunka.go.jp/zhcn/",
+                    "des": "日本各个地区的实景拍摄图片搜索网站，可供场景参考"
+                },
+                {
+                    "name": "太空壁纸站",
+                    "value": "https://psiupuxa.com/",
+                    "des": "来自宇宙！美国航天局探索图，汇集了大量的神秘太空图"
+                },
+                {
+                    "name": "天空之城",
+                    "value": "https://www.skypixel.com/",
+                    "des": "超赞！全球各地航拍爱好者和专业摄影师的社交平台"
+                },
+                {
+                    "name": "无料写真素材",
+                    "value": "http://freephoto.bizutart.com/",
+                    "des": "免费相片素材的主题展"
+                },
+                {
+                    "name": "総合素材",
+                    "value": "http://sozaing.com/",
+                    "des": "一本无版权图片的日记本一样，里面有很多很"
+                },
+                {
+                    "name": "Adobe Stock",
+                    "value": "https://stock.adobe.com/",
+                    "des": "寻找下一个创意项目的理想库存资产。"
+                },
+                {
+                    "name": "AllTheFreeStock",
+                    "value": "http://allthefreestock.com/",
+                    "des": "一个地址，找到所有无版权图片、模型、视频"
+                },
+                {
+                    "name": "Anthony Grote",
+                    "value": "http://www.anthonygrote.com/",
+                    "des": "体育、旅游类图片网站"
+                },
+                {
+                    "name": "Artstel",
+                    "value": "https://artstel.co/",
+                    "des": "摄影、时尚行业交流平台，世界各地创意人士的聚集地"
+                },
+                {
+                    "name": "Barn Images",
+                    "value": "http://barnimages.com/",
+                    "des": "提供免费高清晰度图片集合的站点，还有专辑精选"
+                },
+                {
+                    "name": "BEIZ Graphic",
+                    "value": "https://www.beiz.jp/",
+                    "des": "分享多种自然元素素材及纹理，多种尺寸任意选择"
+                },
+                {
+                    "name": "DepositPhotos",
+                    "value": "https://cn.depositphotos.com/",
+                    "des": "美国Depositphotos公司旗下站点，付费式图片素材库"
+                },
+                {
+                    "name": "DesignersPics",
+                    "value": "http://www.designerspics.com/",
+                    "des": "免费高分辨率的生活图片，可商业用途"
+                },
+                {
+                    "name": "Everypixel",
+                    "value": "https://everypixel.com/",
+                    "des": "智能搜图工具，可以搜索各大图片网站的图片"
+                },
+                {
+                    "name": "FindA.Photo",
+                    "value": "http://finda.photo/",
+                    "des": "支持按颜色筛选，10000+免版权高清图片供你下载"
+                },
+                {
+                    "name": "Foodie’s Feed",
+                    "value": "https://foodiesfeed.com/",
+                    "des": "饮食、蔬果等高清大图免费下载"
+                },
+                {
+                    "name": "Foto community",
+                    "value": "https://www.fotocommunity.com/",
+                    "des": "德国的在线摄影社区，汇集了摄影爱好者的优秀作品"
+                },
+                {
+                    "name": "Freely Photos",
+                    "value": "http://freelyphotos.com/",
+                    "des": "很多十字架，很多宗教祈祷的图片"
+                },
+                {
+                    "name": "FreeNatureStock",
+                    "value": "http://freenaturestock.com/",
+                    "des": "喜欢自然景观的朋友，不要错过。可商用，每日更新"
+                },
+                {
+                    "name": "Futta",
+                    "value": "http://www.futta.net/",
+                    "des": "该网站的图片分享也很齐全，图片也是高解析"
+                },
+                {
+                    "name": "Getrefe",
+                    "value": "http://getrefe.tumblr.com/",
+                    "des": "网站图库全都来自于手机，个人商用都可以。"
+                },
+                {
+                    "name": "Good Free Photos",
+                    "value": "https://www.goodfreephotos.com/",
+                    "des": "1万8千多张无版权图片，质量嘛，参差不齐…"
+                },
+                {
+                    "name": "Gratisography",
+                    "value": "http://www.gratisography.com/",
+                    "des": "每周都会更新，很多时尚流行的照片在里面，"
+                },
+                {
+                    "name": "ISO Republic",
+                    "value": "https://isorepublic.com/",
+                    "des": "富有创意的高品质图片站，含收费图片"
+                },
+                {
+                    "name": "Kaboompics",
+                    "value": "http://kaboompics.com/",
+                    "des": "以生活化场景为主，比方说手机、日历之类的"
+                },
+                {
+                    "name": "Lifeofpix",
+                    "value": "http://www.lifeofpix.com/",
+                    "des": "该站提供搜索和分类目录，有人物、自然、艺"
+                },
+                {
+                    "name": "Magdeleine",
+                    "value": "https://magdeleine.co/",
+                    "des": "精选的免费照片，点燃你的灵感火花。可以通过颜色检索"
+                },
+                {
+                    "name": "New Old Stock",
+                    "value": "http://nos.twnsnd.co/",
+                    "des": "网站的特色是主打复古风格图片，如果你想找"
+                },
+                {
+                    "name": "photoAC",
+                    "value": "https://zh-tw.photo-ac.com/",
+                    "des": "这里有超过18萬張的免費照片。使用時無需註"
+                },
+                {
+                    "name": "PhotoPin",
+                    "value": "http://photopin.com/",
+                    "des": "网站的图是从Flicker里挑的版权免费优质图"
+                },
+                {
+                    "name": "PicJumbo",
+                    "value": "https://picjumbo.com/",
+                    "des": "提供免费个人和商业使用的图像下载"
+                },
+                {
+                    "name": "Picography",
+                    "value": "https://picography.co/",
+                    "des": "网站提供免费高画质解析相片让使用者下载"
+                },
+                {
+                    "name": "Public Domain",
+                    "value": "http://publicdomainarchive.com/",
+                    "des": "目前已经有5万张免费高清图像下载，设计师"
+                },
+                {
+                    "name": "Resplashed",
+                    "value": "http://www.resplashed.com/",
+                    "des": "自然风光建筑美景！图片质量高，可花点时间另存"
+                },
+                {
+                    "name": "Skuawk",
+                    "value": "http://skuawk.com/",
+                    "des": "摄影师拍摄的无版权图片网站，分类浏览"
+                },
+                {
+                    "name": "Snapwiresnaps",
+                    "value": "http://snapwiresnaps.tumblr.com/",
+                    "des": "Tumblr图片博客，以自然风景和食物为主"
+                },
+                {
+                    "name": "splashbase",
+                    "value": "http://www.splashbase.co/",
+                    "des": "搜索和发现免费高清图片及视频"
+                },
+                {
+                    "name": "Stock Photos",
+                    "value": "http://stokpic.com/",
+                    "des": "有很多人物图片，每两周更新10张"
+                },
+                {
+                    "name": "StockSnap",
+                    "value": "https://stocksnap.io/",
+                    "des": "免费高清网站，每天更新数十张"
+                },
+                {
+                    "name": "Stockvault",
+                    "value": "http://www.stockvault.net/",
+                    "des": "大部分为摄影作品，也有少量的插图"
+                },
+                {
+                    "name": "Superfamous Images",
+                    "value": "https://images.superfamous.com/",
+                    "des": "200多张高清的岩石、地貌等自然肌理免费下载"
+                },
+                {
+                    "name": "Tookapic",
+                    "value": "https://stock.tookapic.com/",
+                    "des": "63000+ 的无版权真实照片"
+                },
+                {
+                    "name": "Totally Cool Pix",
+                    "value": "http://totallycoolpix.com/",
+                    "des": "推荐！实时高清新闻图片分享网"
+                },
+                {
+                    "name": "Trunklog",
+                    "value": "http://trunklog.com/",
+                    "des": "瑞典的一位摄影师旅行所拍摄的照片，全部无"
+                },
+                {
+                    "name": "Vector Maps",
+                    "value": "https://www.freevectormaps.com/",
+                    "des": "全世界各国家矢量图"
+                },
+                {
+                    "name": "Viintage",
+                    "value": "https://www.designrush.com/resources/viintage/",
+                    "des": "喜欢复古？这里有成千上万的复古图片"
+                },
+                {
+                    "name": "Wlppr",
+                    "value": "http://wlppr.co/",
+                    "des": "在线卫星景观图，精美的手机壁纸站"
+                },
+                {
+                    "name": "Zoommy",
+                    "value": "https://zoommyapp.com/",
+                    "des": "彻底告别配图烦恼，将50,000张高清免费图片"
+                }
+            ],
+            "配色": [
+                {
+                    "name": "配色网",
+                    "value": "http://www.peise.net/",
+                    "des": "致力色彩搭配方案的交流与学习"
+                },
+                {
+                    "name": "日本传统色",
+                    "value": "https://color.uisdc.com/jp.html"
+                },
+                {
+                    "name": "色彩选择",
+                    "value": "https://www.materialpalette.com/colors"
+                },
+                {
+                    "name": "炫酷配色",
+                    "value": "https://www.coocolors.com/",
+                    "des": "设计师配色神器。海量配色方案,丰富配色功能"
+                },
+                {
+                    "name": "颜色值转换",
+                    "value": "https://www.sioe.cn/yingyong/yanse-rgb-16/"
+                },
+                {
+                    "name": "在线配色1",
+                    "value": "https://colorhunt.co/"
+                },
+                {
+                    "name": "在线配色5",
+                    "value": "https://www.colorhexa.com/"
+                },
+                {
+                    "name": "中国传统色",
+                    "value": "https://color.uisdc.com/"
+                },
+                {
+                    "name": "Adobe Color CC",
+                    "value": "https://color.adobe.com/zh/create/color-wheel",
+                    "des": "Adobe出品的一款在线配色工具"
+                },
+                {
+                    "name": "BrandColors",
+                    "value": "https://brandcolors.net/",
+                    "des": "收集世界知名品牌使用的颜色，可以快速选择"
+                },
+                {
+                    "name": "C7TOOL",
+                    "value": "http://tool.c7sky.com/webcolor",
+                    "des": "网页设计常用色彩搭配表"
+                },
+                {
+                    "name": "colordrop",
+                    "value": "https://colordrop.io/",
+                    "des": "网页设计常用色彩搭配方案"
+                },
+                {
+                    "name": "colorhunt",
+                    "value": "http://colorhunt.co/",
+                    "des": "设计、网页配色工具网站"
+                },
+                {
+                    "name": "ColorSpace",
+                    "value": "https://mycolor.space/",
+                    "des": "给一个色值，自动匹配多种配色方案。"
+                },
+                {
+                    "name": "Coolors",
+                    "value": "https://coolors.co/browser",
+                    "des": "实用的成千上万的配色方案"
+                },
+                {
+                    "name": "Happy Hues",
+                    "value": "https://www.happyhues.co/palettes/5",
+                    "des": "Curated colors in context."
+                },
+                {
+                    "name": "LOLCOLORS",
+                    "value": "https://www.webdesignrankings.com/resources/lolcolors",
+                    "des": "免费、简洁的网页配色工具"
+                },
+                {
+                    "name": "Material Palette",
+                    "value": "https://www.materialpalette.com/",
+                    "des": "在这个工具中，你可以先选择主色和重点色。选完之后工具会自动生成即时预览图并提供多种下载的方式。"
+                },
+                {
+                    "name": "Material UI",
+                    "value": "https://www.materialui.co/",
+                    "des": "把所有能提供给你的颜色汇聚在一个页面上供你选择。"
+                },
+                {
+                    "name": "Open Color",
+                    "value": "https://yeun.github.io/open-color",
+                    "des": "一个用于UI设计的配色方案合集"
+                },
+                {
+                    "name": "Piknik",
+                    "value": "http://color.aurlien.net/",
+                    "des": "网页配色工具，通过移动鼠标改变颜色"
+                },
+                {
+                    "name": "uigradients",
+                    "value": "https://uigradients.com/",
+                    "des": "流行的渐变色配色方案"
+                },
+                {
+                    "name": "Webgradients",
+                    "value": "https://webgradients.com/",
+                    "des": "优秀的背景渐变配色器"
+                },
+                {
+                    "name": "zhongguose － 传统颜色",
+                    "value": "http://zhongguose.com/#zhuganzi",
+                    "des": "提供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示。"
+                }
+            ],
+            "字体": [
+                {
+                    "name": "17ziti字体之家",
+                    "value": "http://www.17ziti.com/",
+                    "des": "收藏各种各样字体的个人网站"
+                },
+                {
+                    "name": "100font.com - 免版权字体下载、免费商用字体下载网站",
+                    "value": "https://www.100font.com/",
+                    "des": "一个专门免费商用字体收集整理与分享网站"
+                },
+                {
+                    "name": "1001 Fonts",
+                    "value": "https://www.1001fonts.com/"
+                },
+                {
+                    "name": "1001 Free Fonts",
+                    "value": "https://www.1001freefonts.com/",
+                    "des": "超过25900个高质量字体下载"
+                },
+                {
+                    "name": "猫啃网字体",
+                    "value": "https://www.maoken.com/",
+                    "des": "免费商用字体下载网站"
+                },
+                {
+                    "name": "求字体",
+                    "value": "http://www.qiuziti.com/"
+                },
+                {
+                    "name": "下载字体",
+                    "value": "http://www.xiazaiziti.com/",
+                    "des": "在线字体下载大全"
+                },
+                {
+                    "name": "有字库",
+                    "value": "https://www.webfont.com/",
+                    "des": "一个免下载字体，直接在线引用字体的网站"
+                },
+                {
+                    "name": "站长字体",
+                    "value": "http://font.chinaz.com/",
+                    "des": "免费的字体在线下载网站"
+                },
+                {
+                    "name": "找字网",
+                    "value": "http://www.zhaozi.cn/",
+                    "des": "流行的免费字体下载网站，还可以在线设计字体。"
+                },
+                {
+                    "name": "字体家",
+                    "value": "https://www.zitijia.com/",
+                    "des": "免费字体下载,中文字体大全"
+                },
+                {
+                    "name": "字体天下",
+                    "value": "http://www.fonts.net.cn/"
+                },
+                {
+                    "name": "字体下载",
+                    "value": "https://www.ztxz.net.cn/",
+                    "des": "字体下载大全"
+                },
+                {
+                    "name": "字由",
+                    "value": "https://www.hellofont.cn/",
+                    "des": "大量免费商用字体，无需安装，一键替换"
+                },
+                {
+                    "name": "Abstract Fonts",
+                    "value": "http://www.abstractfonts.com/"
+                },
+                {
+                    "name": "Da Font",
+                    "value": "https://www.dafont.com/"
+                },
+                {
+                    "name": "DaFont",
+                    "value": "http://www.dafont.com/",
+                    "des": "字体资源搜索与下载。"
+                },
+                {
+                    "name": "FFonts",
+                    "value": "https://www.ffonts.net/"
+                },
+                {
+                    "name": "Font.Ex",
+                    "value": "http://www.fontex.org/",
+                    "des": "免费的字体下载网站"
+                },
+                {
+                    "name": "fonts2u",
+                    "value": "http://www.fonts2u.com/",
+                    "des": "免费的字体分享网站"
+                },
+                {
+                    "name": "fontsquirrel",
+                    "value": "https://www.fontsquirrel.com/",
+                    "des": "高质量的字体图标下载"
+                },
+                {
+                    "name": "fontsup",
+                    "value": "http://fontsup.com/",
+                    "des": "免费下载字体、字体搜索查询。"
+                },
+                {
+                    "name": "PS字体库",
+                    "value": "http://www.psjia.com/pssc/fontxz/list_18_3.html",
+                    "des": "包含了几乎所有类型的字体，下载好安装，PS中就可以使用了"
+                },
+                {
+                    "name": "Urban Fonts",
+                    "value": "http://www.urbanfonts.com/",
+                    "des": "字体资源搜索与下载。"
+                },
+                {
+                    "name": "urbanfonts",
+                    "value": "https://www.urbanfonts.com/"
+                }
+            ],
+            "在线生成 二维码、短网址等": [
+                {
+                    "name": "二维码生成",
+                    "value": "https://cli.im/"
+                },
+                {
+                    "name": "短网址生成",
+                    "value": "https://sina.lt/"
+                },
+                {
+                    "name": "样机模型生成",
+                    "value": "https://dimmy.club/"
+                },
+                {
+                    "name": "在线网页截图",
+                    "value": "https://screen.guru/"
+                },
+                {
+                    "name": "印章生成器",
+                    "value": "https://www.gaitubao.com/yinzhang/"
+                },
+                {
+                    "name": "地图选择器",
+                    "value": "https://datav.aliyun.com/portal/school/atlas/area_selector"
+                }
+            ],
+            "设计制作 海报、头像、截图、背景设计等": [
+                {
+                    "name": "百度H5",
+                    "value": "https://h5.bce.baidu.com/store"
+                },
+                {
+                    "name": "易企秀",
+                    "value": "https://store.eqxiu.com/index/"
+                },
+                {
+                    "name": "在线PS",
+                    "value": "https://www.photopea.com/"
+                },
+                {
+                    "name": "头像设计",
+                    "value": "https://personas.draftbit.com/"
+                },
+                {
+                    "name": "Logo设计制作",
+                    "value": "http://www.uugai.com/"
+                },
+                {
+                    "name": "加载动画制作1",
+                    "value": "https://icons8.com/preloaders/"
+                },
+                {
+                    "name": "加载动画制作2",
+                    "value": "https://loading.io/"
+                },
+                {
+                    "name": "网页截图美化1",
+                    "value": "https://screenzy.io/"
+                },
+                {
+                    "name": "网页截图美化2",
+                    "value": "https://www.screely.com/"
+                },
+                {
+                    "name": "波形图片设计",
+                    "value": "https://getwaves.io/"
+                },
+                {
+                    "name": "异形图片设计",
+                    "value": "https://www.blobmaker.app/"
+                },
+                {
+                    "name": "低多边形背景设计",
+                    "value": "https://coolbackgrounds.io/"
+                },
+                {
+                    "name": "SVG背景设计",
+                    "value": "https://www.svgbackgrounds.com/"
+                },
+                {
+                    "name": "渐变背景设计1",
+                    "value": "https://uigradients.com/"
+                },
+                {
+                    "name": "渐变背景设计2",
+                    "value": "https://webgradients.com/"
+                }
+            ],
+            "设计规范": [
+                {
+                    "name": "屏幕尺寸大全",
+                    "value": "https://uiiiuiii.com/screen/index.htm"
+                },
+                {
+                    "name": "iOS设计尺寸规范",
+                    "value": "https://uiiiuiii.com/screen/ios.htm"
+                },
+                {
+                    "name": "Android设计尺寸规范",
+                    "value": "https://www.ubuuk.com/android"
+                },
+                {
+                    "name": "Web设计尺寸规范",
+                    "value": "https://www.ubuuk.com/web"
+                },
+                {
+                    "name": "切图命名规范",
+                    "value": "https://www.ubuuk.com/cutname"
+                },
+                {
+                    "name": "苹果设计指南",
+                    "value": "https://developer.apple.com/design/"
+                }
+            ],
+            "工具/教程": [
+                {
+                    "name": "百度脑图",
+                    "value": "https://naotu.baidu.com/"
+                },
+                {
+                    "name": "Eagle",
+                    "value": "https://eagle.cool/"
+                },
+                {
+                    "name": "蓝湖",
+                    "value": "https://lanhuapp.com/"
+                },
+                {
+                    "name": "墨刀",
+                    "value": "https://modao.cc/"
+                },
+                {
+                    "name": "PxCook",
+                    "value": "https://www.fancynode.com.cn/pxcook"
+                },
+                {
+                    "name": "图片压缩",
+                    "value": "https://compressjpeg.com/"
+                },
+                {
+                    "name": "文件格式转换",
+                    "value": "https://convertio.co/zh/"
+                },
+                {
+                    "name": "Axure",
+                    "value": "https://www.axure.com/"
+                },
+                {
+                    "name": "Sketch",
+                    "value": "https://www.sketch.com/"
+                },
+                {
+                    "name": "设计教程",
+                    "value": "https://uiiiuiii.com/all"
+                },
+                {
+                    "name": "doyoudo",
+                    "value": "https://doyoudo.com/free"
+                }
+            ],
+            "设计团队": [
+                {
+                    "name": "阿里巴巴CBU设计",
+                    "value": "https://www.zcool.com.cn/u/13075128"
+                },
+                {
+                    "name": "阿里巴巴设计",
+                    "value": "https://www.zcool.com.cn/u/14828254"
+                },
+                {
+                    "name": "腾讯ISUX",
+                    "value": "https://www.zcool.com.cn/u/1936779"
+                },
+                {
+                    "name": "腾讯动漫TCD",
+                    "value": "https://www.zcool.com.cn/u/17366024"
+                },
+                {
+                    "name": "腾讯游戏TGideas",
+                    "value": "https://tgideas.zcool.com.cn/"
+                },
+                {
+                    "name": "天美艺术设计中心",
+                    "value": "https://www.zcool.com.cn/u/23191411"
+                },
+                {
+                    "name": "阅文体验设计YUX",
+                    "value": "https://www.zcool.com.cn/u/18178178"
+                },
+                {
+                    "name": "百度BMD",
+                    "value": "https://www.zcool.com.cn/u/16770949"
+                },
+                {
+                    "name": "斗鱼UED",
+                    "value": "https://www.zcool.com.cn/u/16940244"
+                },
+                {
+                    "name": "京东金融UDC",
+                    "value": "https://www.zcool.com.cn/u/20758939"
+                },
+                {
+                    "name": "vivo互联网UED",
+                    "value": "https://www.zcool.com.cn/u/21910736"
+                },
+                {
+                    "name": "转转用户体验设计",
+                    "value": "https://www.zcool.com.cn/u/15272790"
+                },
+                {
+                    "name": "Mogu_Design",
+                    "value": "https://mogudesign.zcool.com.cn/"
+                },
+                {
+                    "name": "阿里妈妈Mux",
+                    "value": "https://mux.alimama.com/"
+                },
+                {
+                    "name": "腾讯ISUX",
+                    "value": "https://isux.tencent.com/"
+                },
+                {
+                    "name": "腾讯TGideas",
+                    "value": "https://tgideas.qq.com/"
+                },
+                {
+                    "name": "腾讯CDC",
+                    "value": "https://cdc.tencent.com/"
+                },
+                {
+                    "name": "京东JDC",
+                    "value": "https://jelly.jd.com/"
+                },
+                {
+                    "name": "百度UXC",
+                    "value": "http://meux.baidu.com/"
+                }
+            ],
+            "设计公司": [
+                {
+                    "name": "EICO",
+                    "value": "https://eicoinc.com/"
+                },
+                {
+                    "name": "inves",
+                    "value": "http://www.invesdesign.com/"
+                },
+                {
+                    "name": "ARK",
+                    "value": "https://www.arkdesign.cn/"
+                },
+                {
+                    "name": "dtail",
+                    "value": "https://www.dtailstudio.com/"
+                },
+                {
+                    "name": "Pentagram",
+                    "value": "https://www.pentagram.com/"
+                },
+                {
+                    "name": "Studio Size",
+                    "value": "https://studio-size.com/"
+                }
+            ]
+        }
+    },
+    {
+        "group": "Adobe",
+        "channel": {
+            "Acrobat": [
+                {
+                    "name": "Acrobat DC 2022",
+                    "value": "https://pan.baidu.com/s/1qNyP18LupFKCKqe69kxutw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Acrobat DC 2021",
+                    "value": "https://pan.baidu.com/s/1IbJ0veEU6BFKpiL3g_1rgw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Acrobat DC 2020",
+                    "value": "https://pan.baidu.com/s/1rzVih7oeKx3qJRAawRVeAw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Acrobat XI 11.0.23",
+                    "value": "https://pan.baidu.com/s/1ZjsjREIGmVPdKtDPpRY-Gg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "After Effects": [
+                {
+                    "name": "After Effects 2023",
+                    "value": "https://pan.baidu.com/s/1nTw5Lbi_PA9sQFB6CBiqmQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "After Effects 2022",
+                    "value": "https://pan.baidu.com/s/1h9XaZ1a37DKZ0-B6BssKYw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "After Effects 2021",
+                    "value": "https://pan.baidu.com/s/1nifvsqTAssscx6GnEa-Q8w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "After Effects 2020",
+                    "value": "https://pan.baidu.com/s/1nW8TGXZcwNd_GMIvgxZHYA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "After Effects 2019",
+                    "value": "https://pan.baidu.com/s/1CYxVpDCkYUQunu31vkYuoA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "After Effects 2018",
+                    "value": "https://pan.baidu.com/s/112cREpsEkXlOxpl8kW2ZTA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "After Effects 2017",
+                    "value": "https://pan.baidu.com/s/1PsKkqVfLpmp6Akf7XSll1w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Animate": [
+                {
+                    "name": "Animate 2023",
+                    "value": "https://pan.baidu.com/s/1gxRLOo60_WqJ9iA_uMGomw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Animate 2022",
+                    "value": "https://pan.baidu.com/s/1t4GzrKWnSmxdT91lcENR6g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Animate 2021",
+                    "value": "https://pan.baidu.com/s/1gy8qiOorV3UUfZjnGc6adA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Animate 2020",
+                    "value": "https://pan.baidu.com/s/1jZszCGj3xuCrJLSd1OW_CA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Animate 2019",
+                    "value": "https://pan.baidu.com/s/1NMWGr6qRufxa6iK0Lu02ug?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Animate 2018",
+                    "value": "https://pan.baidu.com/s/10qxOzMjAm2hX4_INWTl05A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Animate 2017",
+                    "value": "https://pan.baidu.com/s/1fXrI2zTcCmmEu2_QaByVjg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Audition": [
+                {
+                    "name": "Audition 2023",
+                    "value": "https://pan.baidu.com/s/1KFlsJdHSihdp0nljVZW36A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Audition 2022",
+                    "value": "https://pan.baidu.com/s/14euwed0Ko8UadS5JhKudSw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Audition 2021",
+                    "value": "https://pan.baidu.com/s/1DFXubiqszwdNaaVHPVJswg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Audition 2020",
+                    "value": "https://pan.baidu.com/s/1pjtX7dn1Dp7FJNXKk7hyDw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Audition 2019",
+                    "value": "https://pan.baidu.com/s/1ZdhR0iGdq1eBfZctonJxLQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Audition 2018",
+                    "value": "https://pan.baidu.com/s/1xAhCsCwXSRlZcnERYhp79w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Audition 2017",
+                    "value": "https://pan.baidu.com/s/18lkRyviROLclrMzU1zcM8Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Bridge": [
+                {
+                    "name": "Bridge 2023",
+                    "value": "https://pan.baidu.com/s/1zjdTnAchkOKARPqhepkXkA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Bridge 2022",
+                    "value": "https://pan.baidu.com/s/1zYwa6qZpZ6n1YpjJ73FBvw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Bridge 2021",
+                    "value": "https://pan.baidu.com/s/153ujBazfh2lXadf28QPiQQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Bridge 2020",
+                    "value": "https://pan.baidu.com/s/1WWMiNDhea_KXh7ajyJYUvA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Bridge 2019",
+                    "value": "https://pan.baidu.com/s/1qnhAu6MvtJVv8efNB--yTQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Bridge 2018",
+                    "value": "https://pan.baidu.com/s/1ZpmR6xqXfLoTN6yEiYslow?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Bridge 2017",
+                    "value": "https://pan.baidu.com/s/1SdxGAC0hwkTxPiV7XOetDA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Character Animator": [
+                {
+                    "name": "Character Animator 2023",
+                    "value": "https://pan.baidu.com/s/1WQYldSdBxpVBqHxZfXaHjw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Character Animator 2022",
+                    "value": "https://pan.baidu.com/s/1aM2OYJgi9Fo4EO_AyhT1-A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Character Animator 2021",
+                    "value": "https://pan.baidu.com/s/1XMNCicejFG0NDR0aIqHQOg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Character Animator 2020",
+                    "value": "https://pan.baidu.com/s/1fqvt4CUmL6ZyOU4rDUsBTw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Character Animator 2019",
+                    "value": "https://pan.baidu.com/s/1RkYlsztg_GpFJ1vP6ZLM6g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Character Animator 2018",
+                    "value": "https://pan.baidu.com/s/1HcRsEykZttMGNSOukThrbA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Dimension": [
+                {
+                    "name": "Dimension 3.4.4",
+                    "value": "https://pan.baidu.com/s/1uqAKB2jibslZAdVoE1ZRzw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Dimension 2.3.1",
+                    "value": "https://pan.baidu.com/s/1rvXS_Jj9MER9Mk_buy9tog?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Dreamweaver": [
+                {
+                    "name": "Dreamweaver 2021",
+                    "value": "https://pan.baidu.com/s/1QCbDknXOY1jiRl9zv1i-pQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Dreamweaver 2020",
+                    "value": "https://pan.baidu.com/s/1XaXjDegOmmS_19gJu6jtiQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Dreamweaver 2019",
+                    "value": "https://pan.baidu.com/s/13Xe1kpoLp1me-20Bl75Bzg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Dreamweaver 2018",
+                    "value": "https://pan.baidu.com/s/1EikLNGaA_CGaP3AIFfw2kg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Dreamweaver 2017",
+                    "value": "https://pan.baidu.com/s/1HMLpIJqR69kSQvrU7sIDJg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "illustrator": [
+                {
+                    "name": "Illustrator 2023",
+                    "value": "https://pan.baidu.com/s/1Y_euG5mu2fEWFeoDiLTi_A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Illustrator 2022",
+                    "value": "https://pan.baidu.com/s/1fkAEurP6zG4Pu6OeUzzu8g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Illustrator 2021",
+                    "value": "https://pan.baidu.com/s/1FrKubkQxUtREEmtjpE7Jzg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Illustrator 2020",
+                    "value": "https://pan.baidu.com/s/1yD80Uvq1vi-sehoDzr4-fA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Illustrator 2019",
+                    "value": "https://pan.baidu.com/s/1WDircvuUXyqetn95MeMGeQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Illustrator 2018",
+                    "value": "https://pan.baidu.com/s/1R08EJ8HFMJCJzxUGOwnsQg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Illustrator 2017",
+                    "value": "https://pan.baidu.com/s/10qEVALKgH1mDylVdQzhCag?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "InCopy": [
+                {
+                    "name": "InCopy 2023",
+                    "value": "https://pan.baidu.com/s/1NReKVo6U2kA73UeijAhKaQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InCopy 2022",
+                    "value": "https://pan.baidu.com/s/1rFJUBeEFzbuyVJTLc5DHWg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InCopy 2021",
+                    "value": "https://pan.baidu.com/s/1fPDZAui3U579JT4tyA_VGQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InCopy 2020",
+                    "value": "https://pan.baidu.com/s/1K7dUWd40GAhJRrUFBSvKaQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InCopy 2019",
+                    "value": "https://pan.baidu.com/s/1HNFgVO11MxFLxmkFbvfL5w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InCopy 2018",
+                    "value": "https://pan.baidu.com/s/1dPQtsKZZ-tDbDeh3YxKPnA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InCopy 2017",
+                    "value": "https://pan.baidu.com/s/1CO_Ck2k4T3c9AH4z88Wp1g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "InDesign": [
+                {
+                    "name": "InDesign 2023",
+                    "value": "https://pan.baidu.com/s/1YGuwMtV5PpTB9PELnAidPQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InDesign 2022",
+                    "value": "https://pan.baidu.com/s/1L5qydPIuDwCecooyw-Bxyg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InDesign 2021",
+                    "value": "https://pan.baidu.com/s/1ngnAT9ifTv7KWEo6MwPHbQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InDesign 2020",
+                    "value": "https://pan.baidu.com/s/1MaautJVo8fwBTa7GWwLKLg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InDesign 2019",
+                    "value": "https://pan.baidu.com/s/1z91hVL8Nqc9JauyAKGhfkQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InDesign 2018",
+                    "value": "https://pan.baidu.com/s/1N8QsBHJhFmrTed9smY_tBA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "InDesign 2017",
+                    "value": "https://pan.baidu.com/s/1WeD-ln7rhqhpCUlerCFf0Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Lightroom": [
+                {
+                    "name": "Lightroom Classic 12.3",
+                    "value": "https://pan.baidu.com/s/13AhDdebefLQf-TyVsRMeCQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lightroom Classic 11.5",
+                    "value": "https://pan.baidu.com/s/12RdNWCBn4aIagarkQr4o_w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lightroom Classic 10.4",
+                    "value": "https://pan.baidu.com/s/18nUecVE11oRVz_7vowNnHA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lightroom Classic 8.4.1",
+                    "value": "https://pan.baidu.com/s/1Opba7_P2pYuAcUagYsXUUA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lightroom Classic 7.5",
+                    "value": "https://pan.baidu.com/s/1K_IyEZ-_ggkW49QWxHS_Bg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Midea Encoder": [
+                {
+                    "name": "Media Encoder 2023",
+                    "value": "https://pan.baidu.com/s/1PZUQSBmfn8J3dwld2nir2A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Media Encoder 2022",
+                    "value": "https://pan.baidu.com/s/1zqYc_YR6d9R9jT_hjG2cOQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Media Encoder 2021",
+                    "value": "https://pan.baidu.com/s/17BAoGVS7K97y2YXKKhOPJA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Media Encoder 2020",
+                    "value": "https://pan.baidu.com/s/1iLT0R9yow80qzN8QAw1khA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Media Encoder 2019",
+                    "value": "https://pan.baidu.com/s/1eGQ8Xjz9cGkWw9w3-4X2Ow?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Media Encoder 2018",
+                    "value": "https://pan.baidu.com/s/1T8VaVLPl1vuw_rpunAMk8g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Media Encoder 2017",
+                    "value": "https://pan.baidu.com/s/1kU6eTb4LZxxmdsoTtmbsAw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Photoshop": [
+                {
+                    "name": "Photoshop 2023",
+                    "value": "https://pan.baidu.com/s/1TfSESQzbPIAPJaFR4xxwZw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Photoshop 2022",
+                    "value": "https://pan.baidu.com/s/1C9cLidwmo_-mOKMcJCLDpA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "value": "https://pan.baidu.com/s/1T0HCQzi11Rrk_2hQUSVFZQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Photoshop 2020",
+                    "value": "https://pan.baidu.com/s/1Pi_kiG2hUuYOZrtwH6HouA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Photoshop 2019",
+                    "value": "https://pan.baidu.com/s/17-Xwi-WcoIV6vdW7TsX4Dg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Photoshop 2018",
+                    "value": "https://pan.baidu.com/s/1uWVwqiT3Wq-XLSwwpx5ugw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Photoshop 2017",
+                    "value": "https://pan.baidu.com/s/1lC9nlWKn4byzZKZZ0LblWA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Photoshop Elements": [
+                {
+                    "name": "Photoshop Elements 2022",
+                    "value": "https://pan.baidu.com/s/1Lq4ALp3eG4XhcV3yA7KV4w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Photoshop Elements 2021",
+                    "value": "https://pan.baidu.com/s/12JsS7GN0wTDCP1RYzJni3g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Photoshop Elements 2020",
+                    "value": "https://pan.baidu.com/s/1aJi3qdRdea6jR--G3IAlvA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Prelude": [
+                {
+                    "name": "Prelude 2022",
+                    "value": "https://pan.baidu.com/s/17SaIF09ynTeA5sMt6w304w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Prelude 2021",
+                    "value": "https://pan.baidu.com/s/12LG5ldOzErP2t9-FMcjGZg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Prelude 2020",
+                    "value": "https://pan.baidu.com/s/1CDZV83IhBun8aECd1qpJoA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Prelude 2019",
+                    "value": "https://pan.baidu.com/s/184IY97kYJd-eHy2nWk75ug?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Prelude 2018",
+                    "value": "https://pan.baidu.com/s/10NjYG0Pb26GXpKLKfpbFMw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Prelude 2017",
+                    "value": "https://pan.baidu.com/s/1MpU1TCOWLua2hnezXdDCjw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Premiere": [
+                {
+                    "name": "Premiere Pro 2023",
+                    "value": "https://pan.baidu.com/s/1TZD99AGC_9Rr4qGG_2Tf3Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Premiere Pro 2022",
+                    "value": "https://pan.baidu.com/s/1VsqcHx3OGpTone9G0KAojw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Premiere Pro 2021",
+                    "value": "https://pan.baidu.com/s/1yjS940VtMphSLrqeMEI6Ow?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Premiere Pro 2020",
+                    "value": "https://pan.baidu.com/s/16ZxSQCKNuPI9_0Vn-niRwg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Premiere Pro 2019",
+                    "value": "https://pan.baidu.com/s/1my1kW7zymPyDc_Abw2-QEg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Premiere Pro 2018",
+                    "value": "https://pan.baidu.com/s/1kJ8KDQXIHhR0TEfjXizI8Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Premiere Pro 2017",
+                    "value": "https://pan.baidu.com/s/1U2zVRJxohHVZxj3mRyKksQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Premiere Elements": [
+                {
+                    "name": "Premiere Elements 2022",
+                    "value": "https://pan.baidu.com/s/1YEUdc5H9A5ckGJDHjKJOuw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Premiere Elements 2021",
+                    "value": "https://pan.baidu.com/s/1hrc1piwpwCT2u_u8IW_25Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Premiere Elements 2020",
+                    "value": "https://pan.baidu.com/s/1xbxvS1Ax7LwSMtHuGXwwhg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ]
+        }
+    },
+    {
+        "group": "AutoCAD",
+        "channel": {
+            "CAD": [
+                {
+                    "name": "CAD2023",
+                    "value": "https://pan.baidu.com/s/1wg_Q0tZXoZEs8YDmzKZx2w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2021",
+                    "value": "https://pan.baidu.com/s/1Dj1Bb5mNJYLx6Omo5zrQKw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2020",
+                    "value": "https://pan.baidu.com/s/1yotY37bjbVbArKOuE5FcVw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2019",
+                    "value": "https://pan.baidu.com/s/1lWlJMbN-xpjifA5-Bx9YmA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2018",
+                    "value": "https://pan.baidu.com/s/1WKJ8Pz6UmIZqlEdUh-VA4w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2017",
+                    "value": "https://pan.baidu.com/s/1hexYLvZg7r_WvuqVJfj6Jw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2016",
+                    "value": "https://pan.baidu.com/s/1mGwu8BPuRn63gAJChrOPxQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2015",
+                    "value": "https://pan.baidu.com/s/1mAqbKrQmvCkJ19VIYlomag?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2014",
+                    "value": "https://pan.baidu.com/s/105flxNGeX9HaL3cA8FbuMA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2013",
+                    "value": "https://pan.baidu.com/s/1eJq1Ky7hcYPQCopglA4_8A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2012",
+                    "value": "https://pan.baidu.com/s/1kuKiWe0fwNHduLY8KOxC5A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2011",
+                    "value": "https://pan.baidu.com/s/179oI8nkKX2W2JcXyCuwagg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2010",
+                    "value": "https://pan.baidu.com/s/1-USWekGe2OO_RcrbYjy7pA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2009",
+                    "value": "https://pan.baidu.com/s/1V-a3OzxbPEaSQvb292pP7g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2008",
+                    "value": "https://pan.baidu.com/s/1Gtwxscd699eWu4WFSWgk3A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2007",
+                    "value": "https://pan.baidu.com/s/1nRk39XTNWFbN41ZsInh40A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2006",
+                    "value": "https://pan.baidu.com/s/1RB75W4iRetjOAYqfKyh5qw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2005",
+                    "value": "https://pan.baidu.com/s/1XYcNeVW396Dm5NKVUu5IvA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2004",
+                    "value": "https://pan.baidu.com/s/1IQqG_mSi5KdyvCYtNEYcTA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAD Plant 3D": [
+                {
+                    "name": "CAD Plant 3D 2023",
+                    "value": "https://pan.baidu.com/s/10X7qAQo2eWrd5vPwGKbwtg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAD MEP": [
+                {
+                    "name": "CAD MEP 2023",
+                    "value": "https://pan.baidu.com/s/1j43ShZaFZFgduX-DCqzQ9w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAD MAP 3D": [
+                {
+                    "name": "CAD MAP 3D 2023",
+                    "value": "https://pan.baidu.com/s/1SuiQzkt_cDekzAdpLLhBgw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAD精简版": [
+                {
+                    "name": "CAD2023精简版",
+                    "value": "https://pan.baidu.com/s/17mUaImRwjPoabKYzgq9hBg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2022精简版",
+                    "value": "https://pan.baidu.com/s/1mPFP1eMVerLDnn4T7tw8Nw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2021精简版",
+                    "value": "https://pan.baidu.com/s/1pkrKSD96wWYRgXet88JvrA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2020精简版",
+                    "value": "https://pan.baidu.com/s/1RSweGJefvvdGVKZzyFCgMw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2019精简版",
+                    "value": "https://pan.baidu.com/s/13PLXOVET1JUuRBpYU4hLsQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2018精简版",
+                    "value": "https://pan.baidu.com/s/1r34DReCp0uzpBL189UyROw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2016精简版",
+                    "value": "https://pan.baidu.com/s/1H6We2PgumXvlrPysLwNAsQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2014精简版",
+                    "value": "https://pan.baidu.com/s/18yxbS6uKFXClxolsK8-DpQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2010精简版",
+                    "value": "https://pan.baidu.com/s/1mIX_yKN3eLkeIJUjgd12tQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2007精简版",
+                    "value": "https://pan.baidu.com/s/1IAfDnvDjVEZDFRtK2mNpSw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAD建筑版": [
+                {
+                    "name": "CAD2023建筑版",
+                    "value": "https://pan.baidu.com/s/1R5N7XMKn_o8BCcH5sWNVyg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2022建筑版",
+                    "value": "https://pan.baidu.com/s/1az1csSuO5odwB5R2MM0OFA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2021建筑版",
+                    "value": "https://pan.baidu.com/s/1d6bI2fYCYXuqhGMGCd_Y3w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2020建筑版",
+                    "value": "https://pan.baidu.com/s/1aYdg-z39dT78e0XwHG8-BA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2018建筑版",
+                    "value": "https://pan.baidu.com/s/1Rwc814nAREzeSV4wy-5DnA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2016建筑版",
+                    "value": "https://pan.baidu.com/s/11rxCqnckCamCyFwMDXt1fA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2014建筑版",
+                    "value": "https://pan.baidu.com/s/1NM54EvUCLARO9tSmNZmO8w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAD机械版": [
+                {
+                    "name": "CAD2023机械版",
+                    "value": "https://pan.baidu.com/s/1kf3yV0D8uLMCllxWjJWyWQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2022机械版",
+                    "value": "https://pan.baidu.com/s/15zifMjJMgKuaZ5tWbpKokQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2021机械版",
+                    "value": "https://pan.baidu.com/s/1dR0Y_U59UZ2Jt3-UJxiNJQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2020机械版",
+                    "value": "https://pan.baidu.com/s/1NFUV2hIvQzcQg4K2ssCt9Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2019机械版",
+                    "value": "https://pan.baidu.com/s/1_B39vOFC4xbc630m3B4ybg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2018机械版",
+                    "value": "https://pan.baidu.com/s/1lG7FcsoKhcChdxfLYi0YLQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2016机械版",
+                    "value": "https://pan.baidu.com/s/1GPoQaumrrzHDD8kbmuqQQA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2015机械版",
+                    "value": "https://pan.baidu.com/s/1Hj6fkhZwKo0xsbp5Ubgq-g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAD电气版": [
+                {
+                    "name": "CAD2023电气版",
+                    "value": "https://pan.baidu.com/s/1zXX2CpaH2MvDSL74oAKSRA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2022电气版",
+                    "value": "https://pan.baidu.com/s/1xsg2SCG7p75SrhUoDKt0zQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2021电气版",
+                    "value": "https://pan.baidu.com/s/1dDLyRY3_Kjw6ry3Dt4OpoA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2020电气版",
+                    "value": "https://pan.baidu.com/s/1Wx5xcPr5pQj1M6xOZHYmBQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2019电气版",
+                    "value": "https://pan.baidu.com/s/166AWTuAoaiDX9RejRpB6qQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2018电气版",
+                    "value": "https://pan.baidu.com/s/1qVKxVQnoZZHSdO7F3ivOgw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2016电气版",
+                    "value": "https://pan.baidu.com/s/1HRs-8vQ6L8MWM_CXgPyAfQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD2015电气版",
+                    "value": "https://pan.baidu.com/s/1m4ig0oINHWmOZgOmPmwZIA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAD迷你系列": [
+                {
+                    "name": "CAD迷你看图 2021R10",
+                    "value": "https://pan.baidu.com/s/1DSUxe1qN0_WiSaRP9WF7Jw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAD迷你画图 2022R2",
+                    "value": "https://pan.baidu.com/s/19tlL4hu1YYH0jbFdX_Ti0w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAXA3D实体设计": [
+                {
+                    "name": "CAXA3D实体设计2022",
+                    "value": "https://pan.baidu.com/s/1mjkM-gdogfLGnq2P84vs2g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA3D实体设计2021",
+                    "value": "https://pan.baidu.com/s/154BQGEqvcuN57_-MhcSwQw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA3D实体设计2020",
+                    "value": "https://pan.baidu.com/s/18vIWrVBksuOROiqJ-MzeDg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA3D实体设计2019",
+                    "value": "https://pan.baidu.com/s/1k37RNXsEGiiQvTA7-7qfGQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAXA电子图版": [
+                {
+                    "name": "CAXA电子图版2022",
+                    "value": "https://pan.baidu.com/s/147RS1p_fdkh--KdFQlbMiw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA电子图版2021",
+                    "value": "https://pan.baidu.com/s/1f7oVp2yx57BCe7C9P-kiag?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA电子图版2020",
+                    "value": "https://pan.baidu.com/s/1VQzwsdjqPpw7kgPoFADNFw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA电子图版2019",
+                    "value": "https://pan.baidu.com/s/1IYSgrl07qw03yisywiGi8g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CAXA工艺图表": [
+                {
+                    "name": "CAXA工艺图表2022",
+                    "value": "https://pan.baidu.com/s/10ydEokcLR2n6yL0G4zGQQA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA工艺图表2021",
+                    "value": "https://pan.baidu.com/s/17y67wd-bJrdGrqmrxdviOg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA工艺图表2020",
+                    "value": "https://pan.baidu.com/s/1PtBxOJGcAOcAUK_YMMrGGw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CAXA工艺图表2019",
+                    "value": "https://pan.baidu.com/s/1f6E66u8F8LV2sKT2Qrp_gg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "天正T20": [
+                {
+                    "name": "天正T20V8.0",
+                    "value": "https://pan.baidu.com/s/1ThbMPd6uORSBg9m3-xKQQQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "天正T20V7.0",
+                    "value": "https://pan.baidu.com/s/1lB6TJKZeKIZ3PCaZdfF7pA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "天正T20 V6.0",
+                    "value": "https://pan.baidu.com/s/1MlMzrNGKQx6yan6hir0tlA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "天正T20 V5.0",
+                    "value": "https://pan.baidu.com/s/1c47FdLvrMb3Y0ubfLjVzsg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "天正T20 v4.0",
+                    "value": "https://pan.baidu.com/s/10wmesZqCnYyrwwimjQIhoQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "天正T20 v3.0",
+                    "value": "https://pan.baidu.com/s/1xH-t8TKMNKIe5WGT8GVn2A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ]
+        }
+    },
+    {
+        "group": "平面设计",
+        "channel": {
+            "ACDSee": [
+                {
+                    "name": "ACDSee2022",
+                    "value": "https://pan.baidu.com/s/1VWw2OhxlpChF-n80iCJqAg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "ACDSee2021",
+                    "value": "https://pan.baidu.com/s/1dDlQvhEz9Pahe85ifFEHGw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "ACDSee2020",
+                    "value": "https://pan.baidu.com/s/1IkuaI50VpZOweHZVEsz2iA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "ACDSee20",
+                    "value": "https://pan.baidu.com/s/1KJg8xJLdl2yatZzEKjHxcg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "ACDSee10",
+                    "value": "https://pan.baidu.com/s/1aTNX_Ht4pxQ0OcU4Rc3Z3Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "ACDSee9",
+                    "value": "https://pan.baidu.com/s/1YGqh0oglH8HGi9UylS_Nog?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Capture One": [
+                {
+                    "name": "Capture one22",
+                    "value": "https://pan.baidu.com/s/1l7Y0MQMXA6Li0TD7_tsWoQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Capture One 21",
+                    "value": "https://pan.baidu.com/s/14TrBulvFlvOmBsdHiIN3kw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Capture One 12",
+                    "value": "https://pan.baidu.com/s/10kIjN7z8elNwcDZran8XFQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Corel Painter": [
+                {
+                    "name": "Corel Painter 2022",
+                    "value": "https://pan.baidu.com/s/184hEXuj_y3Q8m3MsDCydkA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Corel Painter 2021",
+                    "value": "https://pan.baidu.com/s/17er9JocYBZW9omsuyIlrDw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Corel Painter 2020",
+                    "value": "https://pan.baidu.com/s/1Uahl4NPo4ZfmbJ5eiJiK-g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Corel Painter 2019",
+                    "value": "https://pan.baidu.com/s/17vjRXAGzBJ4IJZwQHgy6Yw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "SAI": [
+                {
+                    "name": "SAI 2.0",
+                    "value": "https://pan.baidu.com/s/1tV5Z3hOmTwDAOXVDw7fKqg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SAI 1.0",
+                    "value": "https://pan.baidu.com/s/1paRA8goTN2gbmm85fahavQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "SketchBook": [
+                {
+                    "name": "SketchBook2021",
+                    "value": "https://pan.baidu.com/s/1ZKoCDv-RabwxmRD9pfuLqA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchBook2020",
+                    "value": "https://pan.baidu.com/s/1Rty__HDA2kYXx-2dutfV8w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchBook2019",
+                    "value": "https://pan.baidu.com/s/1Rty__HDA2kYXx-2dutfV8w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchBook2018",
+                    "value": "https://pan.baidu.com/s/1BDkf6tEA2Mvm2NlLZ90mhw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchBook2016",
+                    "value": "https://pan.baidu.com/s/1ljYkGU2J5KPkGDglc5PIKA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchBook2015",
+                    "value": "https://pan.baidu.com/s/1fiLxStof13tTXe31ZvoziA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchBook2014",
+                    "value": "https://pan.baidu.com/s/19Vzpdmbjv4WoYZyxPkcNUQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ]
+        }
+    },
+    {
+        "group": "三维设计",
+        "channel": {
+            "3ds Max": [
+                {
+                    "name": "3ds Max2023",
+                    "value": "https://pan.baidu.com/s/1ctK4vUbZ3DM8Fq06QD12CQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2022",
+                    "value": "https://pan.baidu.com/s/1MsuWbz1mX74AkWOg7Be4pg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2021",
+                    "value": "https://pan.baidu.com/s/1cOJ9_RyMshWcj3_3C8-Jiw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2020",
+                    "value": "https://pan.baidu.com/s/1m1ecZyTJXGj-rjVLymmBPA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2019",
+                    "value": "https://pan.baidu.com/s/1NdhYStXLJkMQG9EXLw-_fw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2018",
+                    "value": "https://pan.baidu.com/s/122hdHDgq6DhFV4XTKZ9hSw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2017",
+                    "value": "https://pan.baidu.com/s/1LLf6Pffno6pN6Ee6_fU4hQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2016",
+                    "value": "https://pan.baidu.com/s/10-7uOaYAnSSE7KoOT-4zPQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2015",
+                    "value": "https://pan.baidu.com/s/1e7KAKE9gavsYBPHiturCzg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2014",
+                    "value": "https://pan.baidu.com/s/1qtdgRUS4-kzm4RfNaYIYdg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2013",
+                    "value": "https://pan.baidu.com/s/1_rc8kND3MkPRNn4qVjkIPQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2012",
+                    "value": "https://pan.baidu.com/s/1kSoNgLyB4hQsphBilevIeQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2011",
+                    "value": "https://pan.baidu.com/s/1J25nPH4EsHZgFbNr_LAE1A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2010",
+                    "value": "https://pan.baidu.com/s/1JgBvqDJw9SywzOBNagJQfQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "3ds Max2009",
+                    "value": "https://pan.baidu.com/s/1rbkStyXQQVW5YLcPRc5nkg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Artlantis": [
+                {
+                    "name": "Artlantis 2021",
+                    "value": "https://pan.baidu.com/s/1LPahUHvXYvIUga12YTPlQQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Artlantis 2020",
+                    "value": "https://pan.baidu.com/s/1oT3LjMQsZ1U3hZaaLeW3bw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Artlantis 2019",
+                    "value": "https://pan.baidu.com/s/1joT50Qz3ml_Qk9K_gcj-FQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "blender": [
+                {
+                    "name": "blender3.0",
+                    "value": "https://pan.baidu.com/s/1Y5Q0MYbJOCv8Tqs-TtlXdA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "blender2.83",
+                    "value": "https://pan.baidu.com/s/17eMYOt-laOaaWlaLUCMkag?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CorelCAD": [
+                {
+                    "name": "CorelCAD 2021",
+                    "value": "https://pan.baidu.com/s/1eE56FNmg672iCVyM9lqfIw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CorelCAD 2020",
+                    "value": "https://pan.baidu.com/s/1Z6IaROnqPaZCohj_XF0ArA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CorelCAD 2019",
+                    "value": "https://pan.baidu.com/s/1VuF-s36xNFzRE-_0ShK2QQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CorelCAD 2018",
+                    "value": "https://pan.baidu.com/s/1i34fcmHTNobZWMgQNmyYHA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CorelCAD 2017",
+                    "value": "https://pan.baidu.com/s/1Omfb9fc8lQ4fSAEsMjXECg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Lumion": [
+                {
+                    "name": "Lumion11",
+                    "value": "https://pan.baidu.com/s/1O6GGH389rzl-vkq7aqvVow?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lumion10.0.0",
+                    "value": "https://pan.baidu.com/s/1MOVYKxkrfhjrDJUr1CZiTQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lumion9.0.2",
+                    "value": "https://pan.baidu.com/s/18gw18oB2uJDYY0ShbIORrw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lumion8.5",
+                    "value": "https://pan.baidu.com/s/1Wt9QuG-6uNGpkuUtf5OJMg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lumion6.0",
+                    "value": "https://pan.baidu.com/s/1fwvssbdqoacfbSIeAp0B3A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lumion5.0",
+                    "value": "https://pan.baidu.com/s/1Sz76HiAD6e7ISzs_1vc3fw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Lumion4.5",
+                    "value": "https://pan.baidu.com/s/1KJ_cmjBTJTTg6eE_Djiszw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "SketchUp Pro": [
+                {
+                    "name": "SketchUpPro 2022",
+                    "value": "https://pan.baidu.com/s/1DlIIXnZzA4oWRLNn_O_ujQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchUpPro 2021",
+                    "value": "https://pan.baidu.com/s/1kAKtehKyUxSkwQ2OUQDWwg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchUpPro 2020",
+                    "value": "https://pan.baidu.com/s/1km3t7uVc-Mtz38eNLeIb1w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchUpPro 2019",
+                    "value": "https://pan.baidu.com/s/1O0XDEmEEyGxO1zrRoSiuoQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchupPro 2018",
+                    "value": "https://pan.baidu.com/s/1lcB3rzJho3UGryhOZV4Qjg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchupPro 2017",
+                    "value": "https://pan.baidu.com/s/1CNvODwpKJ_hWOEHwxvq6dg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchupPro 2016",
+                    "value": "https://pan.baidu.com/s/1fMMLthj2sT3uXzZXAY62uQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SketchUpPro 2015",
+                    "value": "https://pan.baidu.com/s/1f-3-bjtqjOsS-O_aBXEZiw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "V-Ray for 3dsMax": [
+                {
+                    "name": "V-Ray 5.05 for 3ds Max2018- 2021",
+                    "value": "https://pan.baidu.com/s/1nT8u_gqHsTxsESxZCDCrcQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray 5.2 for 3ds Max2019- 2022",
+                    "value": "https://pan.baidu.com/s/1ewoe2jJhM_em1yFPOWuqfQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray 5.1 for 3ds Max2016- 2022",
+                    "value": "https://pan.baidu.com/s/1lKtA2sioGQcQH2aGOhMQFQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray 4.3 for 3dsMax2020",
+                    "value": "https://pan.baidu.com/s/1kJw__vh6q0__viZ_eJV5hg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray 4.1 for 3dMax2013-2019",
+                    "value": "https://pan.baidu.com/s/1EHagYxVYBPD9I4t8DUqwOw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "V-Ray for Rhino": [
+                {
+                    "name": "V-Ray5.2 for Rhino6-8",
+                    "value": "https://pan.baidu.com/s/1irwq-GZBDzskXOdJKbZ2TQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray5.1 for Rhino6-7",
+                    "value": "https://pan.baidu.com/s/1XWI3B2CeJyvbLjkI49nL9w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray4.2 for Rhino5-7",
+                    "value": "https://pan.baidu.com/s/1KvJpeiZTE-PnyOJTcfzlnQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray4.1 for Rhino5-6",
+                    "value": "https://pan.baidu.com/s/1IwFjVbu-IPc7EECQva0ipw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "V-Ray for SketchUp": [
+                {
+                    "name": "V-Ray 5.2 for SketchUp2019-2022",
+                    "value": "https://pan.baidu.com/s/1X5Y9qzbUtoNxnkir7pDTiw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray 5.1 for SketchUp2017-2021",
+                    "value": "https://pan.baidu.com/s/17AYucbWArkZ4uzRuyUpQ0Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray 4.2 for SketchUp2016-2020",
+                    "value": "https://pan.baidu.com/s/1mwRtiLKYqGF_GumRMKNNlA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "V-Ray 4.1 for SketchUp2016-2019",
+                    "value": "https://pan.baidu.com/s/19eSx_aTV5ZofgrNdJSFNaA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ]
+        }
+    },
+    {
+        "group": "影视动画",
+        "channel": {
+            "Maya": [
+                {
+                    "name": "Maya2023",
+                    "value": "https://pan.baidu.com/s/1e-AktMlBoSx5TIsbTaZWhQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Maya2022",
+                    "value": "https://pan.baidu.com/s/19lYsDGRXHK54sAqAikNXaw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Maya2020",
+                    "value": "https://pan.baidu.com/s/1gXjtGw6uAR-gU5mK5462yQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Maya2019",
+                    "value": "https://pan.baidu.com/s/1EEIRp_xRr9YqAYXoClSpOw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Maya2018",
+                    "value": "https://pan.baidu.com/s/1JZnS-gxsknmhoGESA6sSkQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Maya2017",
+                    "value": "https://pan.baidu.com/s/1ZBGoSsPzcPUQDhqhPRd_OQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Maya2016",
+                    "value": "https://pan.baidu.com/s/1NQT8nWaiojYhkGqnvpIoCw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Maya2015",
+                    "value": "https://pan.baidu.com/s/1YMaUOy3aTLe6YXU-jeyokA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "CINEMA 4D": [
+                {
+                    "name": "C4D S26",
+                    "value": "https://pan.baidu.com/s/1bBGg8PJX_kTFAQ6h86_tOw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "C4D S24",
+                    "value": "https://pan.baidu.com/s/1cr2KbwVlcqLdLtLi4_XP8g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "C4D S22",
+                    "value": "https://pan.baidu.com/s/15waLm5vbY3QZMqe5bm-_XQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "C4D R25",
+                    "value": "https://pan.baidu.com/s/1Ri3pozBkqjgKHQG-h3Bxnw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "C4D R23",
+                    "value": "https://pan.baidu.com/s/1jODNUi2sJpQhRF2-BUL4BQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "C4D R21",
+                    "value": "https://pan.baidu.com/s/1h7Hc4JvY5VPRJ6DDERGrUg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "C4D R20",
+                    "value": "https://pan.baidu.com/s/1EXt97DcibhWXax-VGowsXg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "C4D R19",
+                    "value": "https://pan.baidu.com/s/1ERXXXu8gz1II9f2zXd-pTg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "C4D R18",
+                    "value": "https://pan.baidu.com/s/1MX6IxYq2-jpAujcq_nlApw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Cubase": [
+                {
+                    "name": "Cubase 11.0",
+                    "value": "https://pan.baidu.com/s/1b9ELRNqb6Mox5nID4jnN4w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "达芬奇": [
+                {
+                    "name": "达芬奇v18.0",
+                    "value": "https://pan.baidu.com/s/1tiXfe1NtizVbz4hC60EEKg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "达芬奇v17.4",
+                    "value": "https://pan.baidu.com/s/1hH4RQX4vTqz2L9Qyh1740Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "达芬奇v17.2.2",
+                    "value": "https://pan.baidu.com/s/1Z2MyacSeHXUd1kuBzuTRGA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "达芬奇v17.0",
+                    "value": "https://pan.baidu.com/s/13qX_5F4BdlRAQg6XdX4UNg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "达芬奇v16.2.0",
+                    "value": "https://pan.baidu.com/s/18ayX7ah3FnfuY8L44a3Y_w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "达芬奇v15.3.1.3",
+                    "value": "https://pan.baidu.com/s/1q36LOKPKxVqHE3iYujYX5g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "达芬奇v14.3.0.0",
+                    "value": "https://pan.baidu.com/s/1vRrMussSAxZ99mvkKVQ1lg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "EDIUS Pro": [
+                {
+                    "name": "EDIUS Pro v8.5",
+                    "value": "https://pan.baidu.com/s/1JjgJAlIF2_V27HcvBtb7vw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "EDIUS Pro v6.5",
+                    "value": "https://pan.baidu.com/s/1hHZgiRKxx5hyf6Q863eCwg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Nuendo": [
+                {
+                    "name": "Nuendo 7",
+                    "value": "https://pan.baidu.com/s/12HsulcdOIXHF2vjaTE83Fg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ]
+        }
+    },
+    {
+        "group": "建筑设计",
+        "channel": {
+            "Civil 3D": [
+                {
+                    "name": "Civil3D2023",
+                    "value": "https://pan.baidu.com/s/1vzN9xA68ZAYQNTJTdHxuDQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Civil3D2022",
+                    "value": "https://pan.baidu.com/s/1OGtg9OK7AXEoIzjmXDGL6A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Civil3D2021",
+                    "value": "https://pan.baidu.com/s/1KBjddvf4-_NeDWO7VzI5LQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Civil3D2020",
+                    "value": "https://pan.baidu.com/s/1KzVPXJpHJFFThHe9N6S3nA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Civil3D2018",
+                    "value": "https://pan.baidu.com/s/1x2IEJwDhpo05zKuDpE6dgQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Civil3D2017",
+                    "value": "https://pan.baidu.com/s/1MxuYUvGFiftsovtDrjBbAQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Civil3D2012",
+                    "value": "https://pan.baidu.com/s/17Aj4Th-1C_G_vSspQmP78g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Fuzor": [
+                {
+                    "name": "Fuzor2020",
+                    "value": "https://pan.baidu.com/s/1IMzPuMtVkFiiVP_WtZpKJw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Fuzor2019",
+                    "value": "https://pan.baidu.com/s/1cGgguZqR8mRSnHhJnzenJw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Fuzor2018",
+                    "value": "https://pan.baidu.com/s/1B8sIfWeQccojseOj4LewtQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Fuzor2017",
+                    "value": "https://pan.baidu.com/s/1VqSASUjSOKQOB1S7YbTOPA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Navisworks": [
+                {
+                    "name": "Navisworks2023",
+                    "value": "https://pan.baidu.com/s/1Hde7e6CPgTf_5g2s6XhKqQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Navisworks2022",
+                    "value": "https://pan.baidu.com/s/1NvjezVQoWhX9Vbzg5oqdjg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Navisworks2021",
+                    "value": "https://pan.baidu.com/s/1PAy3_Qgle0pMKMPc9sK9YA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Navisworks2020",
+                    "value": "https://pan.baidu.com/s/1D6UDIxOl5-tmx9qeeBUveg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Navisworks2019",
+                    "value": "https://pan.baidu.com/s/1wIDmp7kuRRvCeLJmEOXVkg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Navisworks2018",
+                    "value": "https://pan.baidu.com/s/1ewOz5SfAoIhb2BXdE8nfaw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Navisworks2014",
+                    "value": "https://pan.baidu.com/s/1POgYbWBL3mhWjivOq62qrA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Revit": [
+                {
+                    "name": "Revit2023",
+                    "value": "https://pan.baidu.com/s/1773SoN_sMiMtLL4-HW1TuQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2022",
+                    "value": "https://pan.baidu.com/s/1FA3YqSTkKs5-awrHTdY27A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2021",
+                    "value": "https://pan.baidu.com/s/11ZL8xQbCA7KOJQbpfhrSsA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2020",
+                    "value": "https://pan.baidu.com/s/1OPLxZe9hDuVZTIbRK6d_VQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2019",
+                    "value": "https://pan.baidu.com/s/1EKQnLrwNzKJj_c8Hl_qOZQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2018",
+                    "value": "https://pan.baidu.com/s/18FU7JNCYbx9sdvuikWe7pw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2017",
+                    "value": "https://pan.baidu.com/s/1rv7wxRh-5WVxlZyGr8n1uw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2016",
+                    "value": "https://pan.baidu.com/s/1u3fJhc3jmw7p-bjLpBwnow?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2015",
+                    "value": "https://pan.baidu.com/s/1GoFqyhHIr2Ey5r3WEdIUVQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2014",
+                    "value": "https://pan.baidu.com/s/1TgWkpdXl3f63aYN-3_G5XQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Revit2013",
+                    "value": "https://pan.baidu.com/s/17fGqdmcHKjziO5dVLV0ZJw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Tekla Structures": [
+                {
+                    "name": "Tekla Structures 2021",
+                    "value": "https://pan.baidu.com/s/1BaUx4Fqw1fUUe8tHL9pU9w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Tekla Structures 2020",
+                    "value": "https://pan.baidu.com/s/1NLDMo1zzrPjcB4iNpBOrug?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Tekla Structures 2018",
+                    "value": "https://pan.baidu.com/s/1hotJZq3q61KVWKG0XXNeUA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Tekla Structures 2017",
+                    "value": "https://pan.baidu.com/s/1SAD56fMTnDQcI2uOOUk0yQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Tekla Structures 2016",
+                    "value": "https://pan.baidu.com/s/1X0GmyU9w-G6b5O50Wq8XKQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Tekla Structures 21.0",
+                    "value": "https://pan.baidu.com/s/1aKp4nWnELyf76xc0mj0kCA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Vectorworks": [
+                {
+                    "name": "Vectorworks2022",
+                    "value": "https://pan.baidu.com/s/18yrl72u_39raQ7XUN2d4Cg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Vectorworks2021",
+                    "value": "https://pan.baidu.com/s/15lRUyps_5X7ofFEdpOhCbg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Vectorworks2020",
+                    "value": "https://pan.baidu.com/s/1WM1V-m3xC1poafwNl2utBg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Vectorworks2019",
+                    "value": "https://pan.baidu.com/s/1VmaGhCj4BXphs3bFpH3Haw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Vectorworks2014",
+                    "value": "https://pan.baidu.com/s/1DtThwHO_t_jUStleYaTZlQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ]
+        }
+    },
+    {
+        "group": "机械设计",
+        "channel": {
+            "CATIA Composer": [
+                {
+                    "name": "CATIA Composer R2022",
+                    "value": "https://pan.baidu.com/s/1XogKHBbP98vNMikOxGEoWg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CATIA Composer R2021",
+                    "value": "https://pan.baidu.com/s/16etIg-kXHfh5z6DZfglMCA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "CATIA Composer R2020",
+                    "value": "https://pan.baidu.com/s/1NxliBW-n1qw23R2p_veYrg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Catia": [
+                {
+                    "name": "Catia P3 V5-6R2020",
+                    "value": "https://pan.baidu.com/s/1PrCdJyP4AF_KhAaGRKJv-Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Catia P3 V5-6R2019",
+                    "value": "https://pan.baidu.com/s/1ME14cp0y2Fv-Igwoov8LHg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Catia P3 V5-6R2017",
+                    "value": "https://pan.baidu.com/s/1tU4sS3SkEXsP9f_hr6m0GQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Catia P3 V5-6R2016",
+                    "value": "https://pan.baidu.com/s/1VddWL5y1-zbdFTAmaPOhFQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Catia P3 V5-6R2015",
+                    "value": "https://pan.baidu.com/s/1mF7YvgwylkvW4aoepZxvVA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Catia V5-R20",
+                    "value": "https://pan.baidu.com/s/1JmEPhEvgcbNcUeRpR6buBw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Creo Parametric": [
+                {
+                    "name": "Creo9.0",
+                    "value": "https://pan.baidu.com/s/1sqSTufQP9tfQrcs1sMo4-A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Creo8.0",
+                    "value": "https://pan.baidu.com/s/1CGD0wwFZPm8GxRM8fbVMqQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Creo7.0",
+                    "value": "https://pan.baidu.com/s/1ZKZzTa3QkDXvNDJbevIkDQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Creo.6.0",
+                    "value": "https://pan.baidu.com/s/1rOUGhB6bMNsVG0f6wFvSXw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Creo.5.0",
+                    "value": "https://pan.baidu.com/s/1CPHrLJOaL7IL8AdFnrfQVw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Creo.4.0",
+                    "value": "https://pan.baidu.com/s/1yE__BotkNNrkrzBRoFifbQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Inventor": [
+                {
+                    "name": "Inventor2023",
+                    "value": "https://pan.baidu.com/s/1A5UlV2SiSlCVk-CQFKKLcg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Inventor2022",
+                    "value": "https://pan.baidu.com/s/1BCkS3fNvNw6IX_6qxUkR5w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Inventor2021",
+                    "value": "https://pan.baidu.com/s/1y22_1joLRxqJ1y4Cuh5wgg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Inventor2020",
+                    "value": "https://pan.baidu.com/s/1KvFahgVCK4GguBBbVMo3-g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Inventor2019",
+                    "value": "https://pan.baidu.com/s/1cBncHNnahYZmOKyes_JU2w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Inventor2018",
+                    "value": "https://pan.baidu.com/s/1orr54A2mOezwq1WrpjcPcA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Inventor2015",
+                    "value": "https://pan.baidu.com/s/1mg6IvAfGMZxwbKbf4JWTkQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Mastercam": [
+                {
+                    "name": "Mastercam2023",
+                    "value": "https://pan.baidu.com/s/1JXQsaQF6M6hJXkMJ5YGZcw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Mastercam2022",
+                    "value": "https://pan.baidu.com/s/140QFHpkJQASKzNIG6ke9zw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Mastercam2021",
+                    "value": "https://pan.baidu.com/s/12OHh5XcKjJNXkFjWOuROJg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Mastercam2020",
+                    "value": "https://pan.baidu.com/s/1Z0b2L8l09kFNSzjE730k8A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Mastercam2019",
+                    "value": "https://pan.baidu.com/s/1awAiD1CIFMX2UFH8bLZt3w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Mastercam2018",
+                    "value": "https://pan.baidu.com/s/1XzFtyZ_pHCncSe4T4-aquw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Mastercam2017",
+                    "value": "https://pan.baidu.com/s/1fLsRKnwdil_LniRnhlrqHw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "MastercamX9",
+                    "value": "https://pan.baidu.com/s/1Kj-B1K1ydQRcq3hqcqVDtA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Powermill": [
+                {
+                    "name": "PowerMill2023",
+                    "value": "https://pan.baidu.com/s/1APzo7xahlCyEnwZfip05OA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "PowerMill2022",
+                    "value": "https://pan.baidu.com/s/179WtYkn4UCbXbiCb0irCAQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Powermill2021",
+                    "value": "https://pan.baidu.com/s/1LhKjUn9On1N_NWKjpBBwzg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Powermill2020",
+                    "value": "https://pan.baidu.com/s/1Hvtd1MehUSCz0BYcj1iPkQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Powermill2019",
+                    "value": "https://pan.baidu.com/s/1eVK96aO8FtVSXakBQAlbrA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Powermill2018",
+                    "value": "https://pan.baidu.com/s/1dGAyT-HEmiXCUMA4KT0jKw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Powermill2017",
+                    "value": "https://pan.baidu.com/s/1-waE-yyZzAgpvBzq1UkLFA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Pro Engineer": [
+                {
+                    "name": "Proe5.0M280",
+                    "value": "https://pan.baidu.com/s/1pSznxSy0B_R7bLgY2X1sgA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Proe5.0",
+                    "value": "https://pan.baidu.com/s/1dtmZaB_PSSDm7bn6h0E8EA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "proe4.0",
+                    "value": "https://pan.baidu.com/s/1fGKhOBnMbxUqoV64fo6NXQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Proe3.0",
+                    "value": "https://pan.baidu.com/s/1pod71fw18GzXq1K_xdAgIw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Rhinoceros": [
+                {
+                    "name": "Rhinoceros v7.4",
+                    "value": "https://pan.baidu.com/s/15GPDV_QJDcEi0gxpFoDSCg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Rhinoceros v7.0",
+                    "value": "https://pan.baidu.com/s/1n8FBWb_006npX9ydAgZURA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Rhinoceros v6.25",
+                    "value": "https://pan.baidu.com/s/1E7sMks6Q51cLwlbh2vqqBg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Rhinoceros v6.23",
+                    "value": "https://pan.baidu.com/s/1eu6Q16y8-3BMaKWkdQiw4g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Rhinoceros v6.21",
+                    "value": "https://pan.baidu.com/s/1UDoZaYlUDo34HpjEyDxLjg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Rhinoceros v6.9",
+                    "value": "https://pan.baidu.com/s/1G8Eius5E7KKvdbjLIwFP-Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Rhinoceros v5.14",
+                    "value": "https://pan.baidu.com/s/1TJCEMJGHYPrGlJnJSeqniw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Rhinoceros v5.0",
+                    "value": "https://pan.baidu.com/s/1bw72F8G_7W70nwrvi1wp1Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Solid Edge": [
+                {
+                    "name": "Solid Edge2022",
+                    "value": "https://pan.baidu.com/s/1tb9ngz_En7I9wDOJmUhYkw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Solid Edge2020",
+                    "value": "https://pan.baidu.com/s/186Y_ZqxurfxH9zG5LFW8Jg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Solid Edge2019",
+                    "value": "https://pan.baidu.com/s/1JwcNjPbiGENFIabMm4hJQA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Solid EdgeST10",
+                    "value": "https://pan.baidu.com/s/1Orn5cpLkmpEi6cb_rEhF2w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "SolidWorks": [
+                {
+                    "name": "SolidWorks2022",
+                    "value": "https://pan.baidu.com/s/1ZyYRMaqs7kvEBiyNquJKSg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2021",
+                    "value": "https://pan.baidu.com/s/1org_FbMbSVwHCcHJb0N2Wg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2020",
+                    "value": "https://pan.baidu.com/s/1WYQwH2fTyOM3x_jLt0ow2A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2019",
+                    "value": "https://pan.baidu.com/s/1mhZbn-F5ugRpHnIgVNOCTQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2018",
+                    "value": "https://pan.baidu.com/s/1UtRZCOykrpBOHQaoirY0pg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2017",
+                    "value": "https://pan.baidu.com/s/1MJYpOhuqfbTVGFYeF1C0tg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2016",
+                    "value": "https://pan.baidu.com/s/1gOeG8uH3TcR1Y2uNrtnMeA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2015",
+                    "value": "https://pan.baidu.com/s/1kekUMp2neBZayY0S7aGq7Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2014",
+                    "value": "https://pan.baidu.com/s/1i9Lgj90RpLjt95JR1guf5Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2013",
+                    "value": "https://pan.baidu.com/s/1TN3jFBUwVqGhTIMpbJme5g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "SolidWorks2012",
+                    "value": "https://pan.baidu.com/s/1cSC4f1qj7F3F0QMHTmwZ6A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Unigraphics NX": [
+                {
+                    "name": "UG NX2023",
+                    "value": "https://pan.baidu.com/s/1kceJVUMCCcF4CGFxvNeW9w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "UG NX2000",
+                    "value": "https://pan.baidu.com/s/1tudMOYPgj7rTFQSa1nE6Rw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "UG NX1980",
+                    "value": "https://pan.baidu.com/s/1D5Bj5e-cIsAikxUfi4N62w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "UG NX1953",
+                    "value": "https://pan.baidu.com/s/1SyFMHAe-2hVTPSrCt86xgQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "UG NX1899",
+                    "value": "https://pan.baidu.com/s/1-rt63bkP02AsjeyAmOsAIw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "UG NX12.0",
+                    "value": "https://pan.baidu.com/s/1-rt63bkP02AsjeyAmOsAIw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "UG NX11.0",
+                    "value": "https://pan.baidu.com/s/1LJm37JT0T52c4A5YjqKujw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "UG NX10.0",
+                    "value": "https://pan.baidu.com/s/1SQ2v6nL4yTbC2NY4noRU5Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "UG NX9.0",
+                    "value": "https://pan.baidu.com/s/1lkE_db5PGiUNACdL_lTcHw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ]
+        }
+    },
+    {
+        "group": "电子电路",
+        "channel": {
+            "Altium Designer": [
+                {
+                    "name": "Altium Designer 22",
+                    "value": "https://pan.baidu.com/s/1UicWFYrebf-9Fed3vTJWTg?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Altium Designer 21",
+                    "value": "https://pan.baidu.com/s/1h8KrG-mQxi1MzEepRJ5u4Q?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Altium Designer 20",
+                    "value": "https://pan.baidu.com/s/1-27t3ABxTf_KPHcwPvIh0A?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Altium Designer 19",
+                    "value": "https://pan.baidu.com/s/1uEgWWGaz9LUQuS_f2EFNOw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Altium Designer 18",
+                    "value": "https://pan.baidu.com/s/1tKQxFgiqIv_7dFyJDlR6WQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Altium Designer 17",
+                    "value": "https://pan.baidu.com/s/1IoPVffgNVk_GGoK25zM-6w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Altium Designer 16",
+                    "value": "https://pan.baidu.com/s/1u2GtCIVPjOUvcvareayLFA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Altium Designer 15",
+                    "value": "https://pan.baidu.com/s/1Yk_bC3rEyqUCK_ilZhqRnw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "EPLAN Electric P8": [
+                {
+                    "name": "eplan2022",
+                    "value": "https://pan.baidu.com/s/1VLn3N2NJ7Ro51g_TzdAMKA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "eplan2.9",
+                    "value": "https://pan.baidu.com/s/13TtlI-ixKRliI0ERzxA5_w?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "eplan2.7",
+                    "value": "https://pan.baidu.com/s/1n_uCoOIyoLbcKvuYgaNMIA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "eplan2.6",
+                    "value": "https://pan.baidu.com/s/1GIDUjBmYXIH2-Y3f1BWtTQ?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "eplan2.5",
+                    "value": "https://pan.baidu.com/s/1xo7wTi3XznecUD__z1fcDA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Multisim": [
+                {
+                    "name": "Multisim14.3",
+                    "value": "https://pan.baidu.com/s/1W7cdCNhZYEqcNYIYSX7FyA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Multisim14.0",
+                    "value": "https://pan.baidu.com/s/1Ro6vusCF9A0ruxN9zINEDw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Multisim13.0",
+                    "value": "https://pan.baidu.com/s/1xNWAH32ZfZOcETbAbWpUow?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Multisim12.0",
+                    "value": "https://pan.baidu.com/s/1mW-SNx7EE2T67pS4Lau24g?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ],
+            "Proteus": [
+                {
+                    "name": "Proteus 8.13",
+                    "value": "https://pan.baidu.com/s/1RKhQ-RbAU_m2JP0UCLu8iA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Proteus 8.9",
+                    "value": "https://pan.baidu.com/s/1EzGrGyFJqI4wMPaaaj_tSA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Proteus 8.6",
+                    "value": "https://pan.baidu.com/s/1zT4J5qpxvevUwUo7y70Onw?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                },
+                {
+                    "name": "Proteus 7.8",
+                    "value": "https://pan.baidu.com/s/1nulAw5boq241Ww5AmH02TA?pwd=6666",
+                    "des": "解压密码：ruancang.net"
+                }
+            ]
+        }
+    }
+]

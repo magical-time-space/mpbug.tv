@@ -1,0 +1,17 @@
+{
+    "blockAdHost" : [
+        "drmcmm.baidu.com",
+        "cpro.baidu.com",
+        "hm.baidu.com",
+        "pos.baidu.com",
+        "wrpc.yiyouliao.com",
+        "img1.kkeji.com",
+        "pcw-data.video.iqiyi.com",
+        "js.users.51.la"
+    ],
+    "blockAdList" : [
+        "defaultts.tc.qq.com",
+        "vlive.qqvideo.tc.qq.com",
+        "variety.tc.qq.com"
+    ]
+}
